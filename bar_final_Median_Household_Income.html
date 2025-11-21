@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f9; }
+        .container { max_width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .header { text-align: center; margin-bottom: 20px; }
+        h2 { color: #333; margin-bottom: 10px; }
+        select { padding: 10px; font-size: 16px; border-radius: 5px; border: 1px solid #ccc; cursor: pointer; }
+        iframe { width: 100%; min-height: 600px; border: none; display: block; }
+    </style>
+    <script>
+    function switchView() { document.getElementById('chartFrame').src = document.getElementById('viewSelector').value; }
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h2>Median Household Income Estimates (2023)</h2>
+        <label>View: </label>
+        <select id="viewSelector" onchange="switchView()">
+            <option value="bar_county_Median_Household_Income.html">By County</option>
+            <option value="bar_subdivision_Median_Household_Income.html">By Subdivision</option>
+        </select>
+    </div>
+    <iframe id="chartFrame" src="bar_county_Median_Household_Income.html"></iframe>
+</div>
+</body>
+</html>
