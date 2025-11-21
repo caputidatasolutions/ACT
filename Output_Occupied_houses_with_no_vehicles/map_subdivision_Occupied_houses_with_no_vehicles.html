@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* RESET CSS */
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; font-family: Arial, sans-serif; }
+
+        /* FLEX LAYOUT */
+        body { display: flex; flex-direction: column; }
+
+        .controls { flex: 0 0 auto; padding: 10px; text-align: center; background: #f9f9f9; border-bottom: 1px solid #ddd; }
+        select { padding: 8px; font-size: 14px; }
+
+        /* IFRAME FILL */
+        #mapFrame { flex: 1 1 auto; width: 100%; border: none; display: block; }
+    </style>
+    <script>
+    function loadMap() { document.getElementById('mapFrame').src = document.getElementById('countyDropdown').value; }
+    </script>
+</head>
+<body>
+    <div class="controls">
+        <label>Select Area: </label>
+        <select id="countyDropdown" onchange="loadMap()">
+            <option value="maps/Region_map.html" selected>Region Overview</option>
+<option value="maps/Genesee_map.html">Genesee</option>
+<option value="maps/Livingston_map.html">Livingston</option>
+<option value="maps/Monroe_map.html">Monroe</option>
+<option value="maps/Ontario_map.html">Ontario</option>
+<option value="maps/Orleans_map.html">Orleans</option>
+<option value="maps/Seneca_map.html">Seneca</option>
+<option value="maps/Wayne_map.html">Wayne</option>
+<option value="maps/Yates_map.html">Yates</option>
+        </select>
+    </div>
+    <iframe id="mapFrame" src="maps/Region_map.html"></iframe>
+</body>
+</html>

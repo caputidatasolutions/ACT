@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; font-family: Arial, sans-serif; background-color: #f4f4f9; }
+        .container { display: flex; flex-direction: column; height: 100%; width: 100%; background: white; }
+        .header { flex: 0 0 auto; text-align: center; padding: 10px; border-bottom: 1px solid #ddd; background: #fff; z-index: 10; }
+        iframe { flex: 1 1 auto; width: 100%; border: none; display: block; }
+        h2 { margin: 0 0 10px 0; color: #333; font-size: 1.2em; }
+        select { padding: 5px; font-size: 16px; border-radius: 5px; border: 1px solid #ccc; cursor: pointer; }
+    </style>
+    <script>
+    function switchView() { document.getElementById('chartFrame').src = document.getElementById('viewSelector').value; }
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h2>Total Population Estimates (2023)</h2>
+        <label>View: </label>
+        <select id="viewSelector" onchange="switchView()">
+            <option value="bar_county_Total_Population.html">By County</option>
+            <option value="bar_subdivision_Total_Population.html">By Subdivision</option>
+        </select>
+    </div>
+    <iframe id="chartFrame" src="bar_county_Total_Population.html"></iframe>
+</div>
+</body>
+</html>
