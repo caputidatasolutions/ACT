@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html><head>
+<title>Median Gross Rent Maps</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap');
+        *, *::before, *::after { box-sizing: border-box; }
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%;
+                      font-family: 'DM Sans', 'Proxima Nova, sans-serif', system-ui, sans-serif;
+                      background-color: #F0F2F5; overflow: hidden; color: #1A2744; }
+        .card { display: flex; flex-direction: column; height: 100dvh; width: 100%;
+                 background: #FFFFFF; }
+        .header { flex: 0 0 auto; padding: 12px 20px;
+                   border-bottom: 2px solid #E8ECF0;
+                   display: flex; flex-wrap: wrap; gap: 12px;
+                   justify-content: space-between; align-items: center;
+                   background: #fff; z-index: 10; }
+        .controls-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+        iframe { flex: 1 1 auto; width: 100%; border: none; display: block; }
+        h2 { margin: 0; color: #1A2744; font-family: 'DM Sans', 'Freight Macro Pro, serif', serif;
+              font-size: 1.05rem; font-weight: 600; letter-spacing: -0.01em; }
+        select { padding: 7px 12px; font-size: 13px; font-family: 'DM Sans', sans-serif;
+                  font-weight: 500; border-radius: 6px; border: 1.5px solid #E8ECF0;
+                  color: #1A2744; background-color: #FAFBFC; cursor: pointer;
+                  transition: border-color 0.15s, box-shadow 0.15s; outline: none; }
+        select:hover { border-color: #3B8FCC; }
+        select:focus { border-color: #0062A3; box-shadow: 0 0 0 3px rgba(0,98,163,0.10); }
+        .toggle-container { display: flex; align-items: center; font-size: 12px;
+                             border: 1.5px solid #E8ECF0; border-radius: 6px; overflow: hidden; }
+        .toggle-btn { padding: 7px 14px; cursor: pointer; background: #FAFBFC;
+                       border: none; outline: none; font-family: 'DM Sans', sans-serif;
+                       font-weight: 500; font-size: 12px; color: #94A3B8;
+                       transition: all 0.15s; }
+        .toggle-btn:hover { background: #F0F2F5; }
+        .toggle-btn.active { background: #0062A3; color: white; }
+     #countySelect { display: none; } iframe { height: 100%; }
+select { max-width: 160px; }</style>
+<script>
+var currentDeviceMode = 'desktop';
+function setDeviceMode(mode) {
+    currentDeviceMode = mode;
+    document.getElementById('btn-desktop').classList.toggle('active', mode === 'desktop');
+    document.getElementById('btn-mobile').classList.toggle('active', mode === 'mobile');
+    updateMapSource();
+}
+function updateViewType() {
+    document.getElementById('countySelect').style.display =
+        (document.getElementById('viewMode').value === 'county') ? 'none' : 'inline-block';
+    updateMapSource();
+}
+function updateMapSource() {
+    var type = document.getElementById('viewMode').value;
+    if (type === 'county') {
+        document.getElementById('mainFrame').src = "maps/map_county_Median_Rent_" + currentDeviceMode + ".html";
+    } else {
+        document.getElementById('mainFrame').src = document.getElementById('countySelect').value + "_" + currentDeviceMode + ".html";
+    }
+}
+</script>
+</head><body>
+<div class="card">
+    <div class="header">
+        <h2>Median Gross Rent</h2>
+        <div class="controls-row">
+            <div class="toggle-container">
+                <button id="btn-desktop" class="toggle-btn active" onclick="setDeviceMode('desktop')">Desktop</button>
+                <button id="btn-mobile" class="toggle-btn" onclick="setDeviceMode('mobile')">Mobile</button>
+            </div>
+            <select id="viewMode" onchange="updateViewType()">
+                <option value="county">By County</option>
+                <option value="subdiv">By Subdivision</option>
+            </select>
+            <select id="countySelect" onchange="updateMapSource()">
+                <option value="maps/Region_map">All Subdivisions</option>
+                <option value="maps/Genesee_map">Genesee</option>
+<option value="maps/Livingston_map">Livingston</option>
+<option value="maps/Monroe_map">Monroe</option>
+<option value="maps/Ontario_map">Ontario</option>
+<option value="maps/Orleans_map">Orleans</option>
+<option value="maps/Seneca_map">Seneca</option>
+<option value="maps/Wayne_map">Wayne</option>
+<option value="maps/Yates_map">Yates</option>
+            </select>
+        </div>
+    </div>
+    <iframe id="mainFrame" src="maps/map_county_Median_Rent_desktop.html"></iframe>
+</div></body></html>

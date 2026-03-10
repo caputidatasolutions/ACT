@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap');
+        *, *::before, *::after { box-sizing: border-box; }
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%;
+                      font-family: 'DM Sans', 'Proxima Nova, sans-serif', system-ui, sans-serif;
+                      background-color: #F0F2F5; overflow: hidden; color: #1A2744; }
+        .card { display: flex; flex-direction: column; height: 100dvh; width: 100%;
+                 background: #FFFFFF; }
+        .header { flex: 0 0 auto; padding: 12px 20px;
+                   border-bottom: 2px solid #E8ECF0;
+                   display: flex; flex-wrap: wrap; gap: 12px;
+                   justify-content: space-between; align-items: center;
+                   background: #fff; z-index: 10; }
+        .controls-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+        iframe { flex: 1 1 auto; width: 100%; border: none; display: block; }
+        h2 { margin: 0; color: #1A2744; font-family: 'DM Sans', 'Freight Macro Pro, serif', serif;
+              font-size: 1.05rem; font-weight: 600; letter-spacing: -0.01em; }
+        select { padding: 7px 12px; font-size: 13px; font-family: 'DM Sans', sans-serif;
+                  font-weight: 500; border-radius: 6px; border: 1.5px solid #E8ECF0;
+                  color: #1A2744; background-color: #FAFBFC; cursor: pointer;
+                  transition: border-color 0.15s, box-shadow 0.15s; outline: none; }
+        select:hover { border-color: #3B8FCC; }
+        select:focus { border-color: #0062A3; box-shadow: 0 0 0 3px rgba(0,98,163,0.10); }
+        .toggle-container { display: flex; align-items: center; font-size: 12px;
+                             border: 1.5px solid #E8ECF0; border-radius: 6px; overflow: hidden; }
+        .toggle-btn { padding: 7px 14px; cursor: pointer; background: #FAFBFC;
+                       border: none; outline: none; font-family: 'DM Sans', sans-serif;
+                       font-weight: 500; font-size: 12px; color: #94A3B8;
+                       transition: all 0.15s; }
+        .toggle-btn:hover { background: #F0F2F5; }
+        .toggle-btn.active { background: #0062A3; color: white; }
+    </style>
+<script>
+function updateChart() {
+    var level = document.getElementById('levelSelector').value;
+    var variable = document.getElementById('varSelector').value;
+    document.getElementById('chartFrame').src = "charts/line_" + level + "_" + variable + ".html";
+}
+</script>
+</head><body>
+<div class="card">
+    <div class="header">
+        <h2>Population by Age Group — Trends</h2>
+        <div class="controls-row">
+            <select id="levelSelector" onchange="updateChart()">
+                <option value="county">By County</option>
+                <option value="subdiv">By Subdivision</option>
+            </select>
+            <select id="varSelector" onchange="updateChart()">
+                <option value="Under_5_Years">Under 5 Years</option>
+<option value="5_to_9_Years">5 to 9 Years</option>
+<option value="10_to_14_Years">10 to 14 Years</option>
+<option value="15_to_19_Years">15 to 19 Years</option>
+<option value="20_to_24_Years">20 to 24 Years</option>
+<option value="25_to_29_Years">25 to 29 Years</option>
+<option value="30_to_34_Years">30 to 34 Years</option>
+<option value="35_to_39_Years">35 to 39 Years</option>
+<option value="40_to_44_Years">40 to 44 Years</option>
+<option value="45_to_49_Years">45 to 49 Years</option>
+<option value="50_to_54_Years">50 to 54 Years</option>
+<option value="55_to_59_Years">55 to 59 Years</option>
+<option value="60_to_64_Years">60 to 64 Years</option>
+<option value="65_to_69_Years">65 to 69 Years</option>
+<option value="70_to_74_Years">70 to 74 Years</option>
+<option value="75_to_79_Years">75 to 79 Years</option>
+<option value="80_to_84_Years">80 to 84 Years</option>
+<option value="85_Years_and_Over">85 Years and Over</option>
+            </select>
+        </div>
+    </div>
+    <iframe id="chartFrame" src="charts/line_county_Under_5_Years.html"></iframe>
+</div></body></html>
