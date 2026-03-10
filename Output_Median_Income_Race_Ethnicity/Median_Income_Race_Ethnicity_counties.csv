@@ -1,0 +1,513 @@
+"GEOID","year","County","Geography","variable","Variable_Description","estimate","moe"
+"36037",2017,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",18846,12088
+"36037",2017,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",28750,11103
+"36037",2017,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",154792,76115
+"36037",2017,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2017,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",31894,11293
+"36037",2017,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",29420,5223
+"36037",2017,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",56183,2052
+"36037",2017,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",32030,9905
+"36051",2017,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",18429,5249
+"36051",2017,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",38667,16422
+"36051",2017,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",53929,41173
+"36051",2017,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2017,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",50294,47024
+"36051",2017,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36051",2017,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",54758,1768
+"36051",2017,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",45000,37482
+"36055",2017,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",29094,1259
+"36055",2017,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",25606,2645
+"36055",2017,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",55677,6019
+"36055",2017,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",21731,7780
+"36055",2017,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",30313,2608
+"36055",2017,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",41481,3177
+"36055",2017,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",63653,861
+"36055",2017,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",30922,1708
+"36069",2017,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",30697,8573
+"36069",2017,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",73750,37044
+"36069",2017,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",71518,26609
+"36069",2017,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2017,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",29131,5837
+"36069",2017,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",34659,8504
+"36069",2017,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",63854,1978
+"36069",2017,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",32335,4692
+"36073",2017,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",30909,27318
+"36073",2017,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",86500,62231
+"36073",2017,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36073",2017,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2017,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",19173,2535
+"36073",2017,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",50764,30149
+"36073",2017,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",50274,2423
+"36073",2017,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",20745,3799
+"36099",2017,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",33456,25657
+"36099",2017,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2017,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36099",2017,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2017,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36099",2017,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",20139,15131
+"36099",2017,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",52706,1957
+"36099",2017,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",32778,16000
+"36117",2017,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",32790,12574
+"36117",2017,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",50938,27900
+"36117",2017,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",85125,41491
+"36117",2017,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2017,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",37357,18350
+"36117",2017,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",53571,14911
+"36117",2017,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",54428,1709
+"36117",2017,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",40341,13414
+"36123",2017,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36123",2017,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2017,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36123",2017,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2017,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",51250,28519
+"36123",2017,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",43125,8133
+"36123",2017,"Yates","NA County","B19013H_001","White (Non-Hispanic)",52513,3012
+"36123",2017,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",65298,37453
+"36037",2018,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",28750,7457
+"36037",2018,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",43971,11951
+"36037",2018,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",159196,107206
+"36037",2018,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2018,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",32028,8387
+"36037",2018,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",31449,1928
+"36037",2018,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",62709,2878
+"36037",2018,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",31926,5357
+"36051",2018,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",21333,10910
+"36051",2018,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",41471,39818
+"36051",2018,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",59583,42574
+"36051",2018,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2018,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",36210,25273
+"36051",2018,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36051",2018,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",57130,1948
+"36051",2018,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",44531,12633
+"36055",2018,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",30034,1170
+"36055",2018,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",26174,2397
+"36055",2018,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",62159,4736
+"36055",2018,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36055",2018,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",31164,2017
+"36055",2018,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",41198,6230
+"36055",2018,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",66410,889
+"36055",2018,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",31331,2024
+"36069",2018,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",32037,13246
+"36069",2018,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",75850,59360
+"36069",2018,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",85905,24206
+"36069",2018,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2018,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",34167,17101
+"36069",2018,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",36724,8986
+"36069",2018,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",65262,1802
+"36069",2018,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",35773,4345
+"36073",2018,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",45938,33593
+"36073",2018,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36073",2018,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",108000,33436
+"36073",2018,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2018,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",18400,2536
+"36073",2018,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36073",2018,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",52935,2058
+"36073",2018,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",22475,21817
+"36099",2018,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",36094,27714
+"36099",2018,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2018,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36099",2018,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2018,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",35750,30205
+"36099",2018,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",24886,15464
+"36099",2018,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",55968,1822
+"36099",2018,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",35172,18786
+"36117",2018,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",27692,11745
+"36117",2018,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",52159,26218
+"36117",2018,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",89205,38772
+"36117",2018,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2018,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",37548,20156
+"36117",2018,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",58047,29671
+"36117",2018,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",56222,1656
+"36117",2018,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",50195,19605
+"36123",2018,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36123",2018,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2018,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",33438,20508
+"36123",2018,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2018,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",56250,46864
+"36123",2018,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",44688,24977
+"36123",2018,"Yates","NA County","B19013H_001","White (Non-Hispanic)",55069,3023
+"36123",2018,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",NA,NA
+"36037",2019,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",31226,8204
+"36037",2019,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",37083,20734
+"36037",2019,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36037",2019,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2019,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",32048,8429
+"36037",2019,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",31566,1816
+"36037",2019,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",64033,2060
+"36037",2019,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",31913,2905
+"36051",2019,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",27460,13054
+"36051",2019,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36051",2019,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",84107,41486
+"36051",2019,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2019,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",34437,13744
+"36051",2019,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36051",2019,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",60450,2509
+"36051",2019,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",46438,29795
+"36055",2019,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",32005,1775
+"36055",2019,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",26762,3733
+"36055",2019,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",65884,5719
+"36055",2019,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36055",2019,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",32210,2195
+"36055",2019,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",41891,6430
+"36055",2019,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",69429,914
+"36055",2019,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",32224,2150
+"36069",2019,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",28021,11523
+"36069",2019,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",76250,52683
+"36069",2019,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",109258,38517
+"36069",2019,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2019,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",30950,10698
+"36069",2019,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",63611,34129
+"36069",2019,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",66584,1738
+"36069",2019,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",34619,5677
+"36073",2019,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",40202,11542
+"36073",2019,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36073",2019,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",110852,19810
+"36073",2019,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2019,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",20219,5837
+"36073",2019,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36073",2019,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",53732,1745
+"36073",2019,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",25625,24393
+"36099",2019,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",34539,11393
+"36099",2019,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2019,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",8947,6807
+"36099",2019,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2019,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",36314,11208
+"36099",2019,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",17500,17237
+"36099",2019,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",55636,2624
+"36099",2019,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",42708,26724
+"36117",2019,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",24615,17022
+"36117",2019,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",56250,12189
+"36117",2019,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",69783,25746
+"36117",2019,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2019,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",34390,7061
+"36117",2019,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",52159,35435
+"36117",2019,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",60585,1817
+"36117",2019,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",39720,11592
+"36123",2019,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36123",2019,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2019,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",32955,16594
+"36123",2019,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2019,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36123",2019,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",48125,14492
+"36123",2019,"Yates","NA County","B19013H_001","White (Non-Hispanic)",57359,3087
+"36123",2019,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",68125,44622
+"36037",2020,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",40872,19774
+"36037",2020,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",44000,18145
+"36037",2020,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",43894,11288
+"36037",2020,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2020,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",46250,10643
+"36037",2020,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",40208,16790
+"36037",2020,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",62767,3770
+"36037",2020,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",47708,11340
+"36051",2020,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",29821,10771
+"36051",2020,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36051",2020,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36051",2020,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2020,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36051",2020,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",51322,10827
+"36051",2020,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",61206,2176
+"36051",2020,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",54792,34041
+"36055",2020,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",34010,2556
+"36055",2020,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",26833,3439
+"36055",2020,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",69181,9248
+"36055",2020,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36055",2020,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",39221,6392
+"36055",2020,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",43962,5348
+"36055",2020,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",71773,1155
+"36055",2020,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",35417,3338
+"36069",2020,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",28510,5664
+"36069",2020,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36069",2020,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",130272,59646
+"36069",2020,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2020,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",38382,16561
+"36069",2020,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",56947,11745
+"36069",2020,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",66091,2175
+"36069",2020,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",43977,12672
+"36073",2020,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",65179,54428
+"36073",2020,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",21100,7631
+"36073",2020,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",110903,42268
+"36073",2020,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2020,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",16953,13080
+"36073",2020,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",61833,33544
+"36073",2020,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",53237,2372
+"36073",2020,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",47031,21867
+"36099",2020,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",42188,26303
+"36099",2020,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2020,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36099",2020,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2020,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",38654,12692
+"36099",2020,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36099",2020,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",56222,2648
+"36099",2020,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",NA,NA
+"36117",2020,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",24375,19919
+"36117",2020,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36117",2020,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",91750,37328
+"36117",2020,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2020,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36117",2020,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",61607,17381
+"36117",2020,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",63278,2120
+"36117",2020,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",45875,14996
+"36123",2020,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",16472,706
+"36123",2020,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2020,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",33125,12281
+"36123",2020,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2020,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36123",2020,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",48750,35112
+"36123",2020,"Yates","NA County","B19013H_001","White (Non-Hispanic)",56134,3618
+"36123",2020,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",54375,47222
+"36037",2021,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",36384,20871
+"36037",2021,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",37813,20121
+"36037",2021,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36037",2021,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2021,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",75000,39653
+"36037",2021,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",50185,14180
+"36037",2021,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",65794,3991
+"36037",2021,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",52333,11524
+"36051",2021,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",32188,20860
+"36051",2021,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36051",2021,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36051",2021,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2021,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36051",2021,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",57232,13670
+"36051",2021,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",65711,3060
+"36051",2021,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",48438,23557
+"36055",2021,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",36168,1624
+"36055",2021,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",30100,6044
+"36055",2021,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",64700,5520
+"36055",2021,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",40893,15563
+"36055",2021,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",37383,5299
+"36055",2021,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",53381,5207
+"36055",2021,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",75666,1127
+"36055",2021,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",39124,3244
+"36069",2021,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",52321,20877
+"36069",2021,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",43125,33388
+"36069",2021,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",105789,50066
+"36069",2021,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2021,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",52614,37961
+"36069",2021,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",67917,18421
+"36069",2021,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",71990,3168
+"36069",2021,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",58790,6441
+"36073",2021,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36073",2021,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",39167,34733
+"36073",2021,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",116875,20688
+"36073",2021,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2021,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",15942,11427
+"36073",2021,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",98068,71214
+"36073",2021,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",55321,3237
+"36073",2021,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",38214,32028
+"36099",2021,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",41429,29753
+"36099",2021,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2021,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",54485,24866
+"36099",2021,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2021,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",58155,46750
+"36099",2021,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36099",2021,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",60429,2668
+"36099",2021,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",NA,NA
+"36117",2021,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",44659,14338
+"36117",2021,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36117",2021,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",100500,45298
+"36117",2021,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2021,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",23263,4670
+"36117",2021,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",54806,9427
+"36117",2021,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",65392,2264
+"36117",2021,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",52883,19303
+"36123",2021,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",16464,503
+"36123",2021,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2021,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",34423,2481
+"36123",2021,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2021,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36123",2021,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",55500,19608
+"36123",2021,"Yates","NA County","B19013H_001","White (Non-Hispanic)",59876,3968
+"36123",2021,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",NA,NA
+"36037",2022,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",36921,34414
+"36037",2022,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",50221,17407
+"36037",2022,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",47813,25462
+"36037",2022,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2022,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",68083,36256
+"36037",2022,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",55515,17509
+"36037",2022,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",69735,3701
+"36037",2022,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",60729,21874
+"36051",2022,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",59250,48769
+"36051",2022,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36051",2022,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",66488,29117
+"36051",2022,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2022,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36051",2022,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",65304,13804
+"36051",2022,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",71555,3601
+"36051",2022,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",60563,21553
+"36055",2022,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",39892,1981
+"36055",2022,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",40114,7121
+"36055",2022,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",70119,6323
+"36055",2022,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",45761,32216
+"36055",2022,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",38686,5075
+"36055",2022,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",62116,3845
+"36055",2022,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",81486,1166
+"36055",2022,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",44784,3762
+"36069",2022,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",58224,27432
+"36069",2022,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",87841,24204
+"36069",2022,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",137054,67682
+"36069",2022,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2022,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",70521,27236
+"36069",2022,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",66597,17267
+"36069",2022,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",77291,3341
+"36069",2022,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",64308,5188
+"36073",2022,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",122861,62080
+"36073",2022,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",86417,37951
+"36073",2022,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",143690,81881
+"36073",2022,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2022,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36073",2022,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",94148,46138
+"36073",2022,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",60286,2770
+"36073",2022,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",58092,27090
+"36099",2022,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36099",2022,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2022,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",76071,28480
+"36099",2022,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2022,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36099",2022,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",NA,NA
+"36099",2022,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",65309,3150
+"36099",2022,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",NA,NA
+"36117",2022,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",63750,28285
+"36117",2022,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",36078,17748
+"36117",2022,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",89167,54183
+"36117",2022,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2022,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",30395,16327
+"36117",2022,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",58373,6187
+"36117",2022,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",72635,2543
+"36117",2022,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",45046,13419
+"36123",2022,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36123",2022,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2022,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",37125,1822
+"36123",2022,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2022,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36123",2022,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",61705,22793
+"36123",2022,"Yates","NA County","B19013H_001","White (Non-Hispanic)",64991,3324
+"36123",2022,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",60817,15231
+"36037",2023,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",51339,41642
+"36037",2023,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",53214,39438
+"36037",2023,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36037",2023,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2023,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",70583,25402
+"36037",2023,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",72256,20234
+"36037",2023,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",72964,4254
+"36037",2023,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",76123,15516
+"36051",2023,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36051",2023,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",21000,9654
+"36051",2023,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",94427,39192
+"36051",2023,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2023,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",173140,95294
+"36051",2023,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",68306,15959
+"36051",2023,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",72641,3112
+"36051",2023,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",94375,57991
+"36055",2023,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",41852,1679
+"36055",2023,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",42465,24153
+"36055",2023,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",70913,8980
+"36055",2023,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",48643,33144
+"36055",2023,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",40833,9880
+"36055",2023,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",64111,2645
+"36055",2023,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",85445,1210
+"36055",2023,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",49196,4717
+"36069",2023,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",56027,24096
+"36069",2023,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36069",2023,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",152566,25346
+"36069",2023,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2023,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",84041,16565
+"36069",2023,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",67130,7447
+"36069",2023,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",80497,3026
+"36069",2023,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",65438,5245
+"36073",2023,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36073",2023,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36073",2023,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",148482,119333
+"36073",2023,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2023,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",157938,94936
+"36073",2023,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",72763,35690
+"36073",2023,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",63014,3047
+"36073",2023,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",62052,31378
+"36099",2023,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",32250,17743
+"36099",2023,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",2499,NA
+"36099",2023,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",78269,23571
+"36099",2023,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2023,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36099",2023,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",77614,31981
+"36099",2023,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",66671,4099
+"36099",2023,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",51125,42010
+"36117",2023,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",49831,21190
+"36117",2023,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",36263,758
+"36117",2023,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36117",2023,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2023,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",26629,15347
+"36117",2023,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",60568,4132
+"36117",2023,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",76029,2643
+"36117",2023,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",58236,11627
+"36123",2023,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36123",2023,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2023,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",38720,427
+"36123",2023,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2023,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",NA,NA
+"36123",2023,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",53906,21814
+"36123",2023,"Yates","NA County","B19013H_001","White (Non-Hispanic)",68471,3771
+"36123",2023,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",62679,18346
+"36037",2024,"Genesee","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36037",2024,"Genesee","NA County","B19013C_001","Native American (Non-Hispanic)",56875,40636
+"36037",2024,"Genesee","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36037",2024,"Genesee","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36037",2024,"Genesee","NA County","B19013F_001","Other (Non-Hispanic)",73993,18152
+"36037",2024,"Genesee","NA County","B19013G_001","Two or More Races (Non-Hispanic)",59410,15368
+"36037",2024,"Genesee","NA County","B19013H_001","White (Non-Hispanic)",73931,3058
+"36037",2024,"Genesee","NA County","B19013I_001","Hispanic or Latino (Any Race)",68571,21618
+"36051",2024,"Livingston","NA County","B19013B_001","Black (Non-Hispanic)",64327,17365
+"36051",2024,"Livingston","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36051",2024,"Livingston","NA County","B19013D_001","Asian (Non-Hispanic)",63393,47352
+"36051",2024,"Livingston","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36051",2024,"Livingston","NA County","B19013F_001","Other (Non-Hispanic)",93618,87721
+"36051",2024,"Livingston","NA County","B19013G_001","Two or More Races (Non-Hispanic)",75099,10315
+"36051",2024,"Livingston","NA County","B19013H_001","White (Non-Hispanic)",74083,2236
+"36051",2024,"Livingston","NA County","B19013I_001","Hispanic or Latino (Any Race)",79427,42896
+"36055",2024,"Monroe","NA County","B19013B_001","Black (Non-Hispanic)",42345,1916
+"36055",2024,"Monroe","NA County","B19013C_001","Native American (Non-Hispanic)",59231,22217
+"36055",2024,"Monroe","NA County","B19013D_001","Asian (Non-Hispanic)",72946,6763
+"36055",2024,"Monroe","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36055",2024,"Monroe","NA County","B19013F_001","Other (Non-Hispanic)",44471,10946
+"36055",2024,"Monroe","NA County","B19013G_001","Two or More Races (Non-Hispanic)",64564,3748
+"36055",2024,"Monroe","NA County","B19013H_001","White (Non-Hispanic)",87410,1532
+"36055",2024,"Monroe","NA County","B19013I_001","Hispanic or Latino (Any Race)",49103,3231
+"36069",2024,"Ontario","NA County","B19013B_001","Black (Non-Hispanic)",79363,13312
+"36069",2024,"Ontario","NA County","B19013C_001","Native American (Non-Hispanic)",11397,539
+"36069",2024,"Ontario","NA County","B19013D_001","Asian (Non-Hispanic)",106964,44233
+"36069",2024,"Ontario","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36069",2024,"Ontario","NA County","B19013F_001","Other (Non-Hispanic)",85462,40748
+"36069",2024,"Ontario","NA County","B19013G_001","Two or More Races (Non-Hispanic)",71746,14481
+"36069",2024,"Ontario","NA County","B19013H_001","White (Non-Hispanic)",83237,3607
+"36069",2024,"Ontario","NA County","B19013I_001","Hispanic or Latino (Any Race)",68159,4233
+"36073",2024,"Orleans","NA County","B19013B_001","Black (Non-Hispanic)",106618,49682
+"36073",2024,"Orleans","NA County","B19013C_001","Native American (Non-Hispanic)",55263,25597
+"36073",2024,"Orleans","NA County","B19013D_001","Asian (Non-Hispanic)",92778,86195
+"36073",2024,"Orleans","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36073",2024,"Orleans","NA County","B19013F_001","Other (Non-Hispanic)",139375,75500
+"36073",2024,"Orleans","NA County","B19013G_001","Two or More Races (Non-Hispanic)",61875,25709
+"36073",2024,"Orleans","NA County","B19013H_001","White (Non-Hispanic)",65821,3012
+"36073",2024,"Orleans","NA County","B19013I_001","Hispanic or Latino (Any Race)",64327,45003
+"36099",2024,"Seneca","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36099",2024,"Seneca","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36099",2024,"Seneca","NA County","B19013D_001","Asian (Non-Hispanic)",153594,27906
+"36099",2024,"Seneca","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36099",2024,"Seneca","NA County","B19013F_001","Other (Non-Hispanic)",37315,7989
+"36099",2024,"Seneca","NA County","B19013G_001","Two or More Races (Non-Hispanic)",75250,27115
+"36099",2024,"Seneca","NA County","B19013H_001","White (Non-Hispanic)",68679,2407
+"36099",2024,"Seneca","NA County","B19013I_001","Hispanic or Latino (Any Race)",35602,34441
+"36117",2024,"Wayne","NA County","B19013B_001","Black (Non-Hispanic)",55787,37618
+"36117",2024,"Wayne","NA County","B19013C_001","Native American (Non-Hispanic)",38750,2641
+"36117",2024,"Wayne","NA County","B19013D_001","Asian (Non-Hispanic)",121667,88124
+"36117",2024,"Wayne","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36117",2024,"Wayne","NA County","B19013F_001","Other (Non-Hispanic)",27292,14167
+"36117",2024,"Wayne","NA County","B19013G_001","Two or More Races (Non-Hispanic)",63140,5118
+"36117",2024,"Wayne","NA County","B19013H_001","White (Non-Hispanic)",75982,2632
+"36117",2024,"Wayne","NA County","B19013I_001","Hispanic or Latino (Any Race)",61081,5749
+"36123",2024,"Yates","NA County","B19013B_001","Black (Non-Hispanic)",NA,NA
+"36123",2024,"Yates","NA County","B19013C_001","Native American (Non-Hispanic)",NA,NA
+"36123",2024,"Yates","NA County","B19013D_001","Asian (Non-Hispanic)",NA,NA
+"36123",2024,"Yates","NA County","B19013E_001","Pacific Islander (Non-Hispanic)",NA,NA
+"36123",2024,"Yates","NA County","B19013F_001","Other (Non-Hispanic)",28512,24371
+"36123",2024,"Yates","NA County","B19013G_001","Two or More Races (Non-Hispanic)",71563,28884
+"36123",2024,"Yates","NA County","B19013H_001","White (Non-Hispanic)",70013,3998
+"36123",2024,"Yates","NA County","B19013I_001","Hispanic or Latino (Any Race)",52500,18846

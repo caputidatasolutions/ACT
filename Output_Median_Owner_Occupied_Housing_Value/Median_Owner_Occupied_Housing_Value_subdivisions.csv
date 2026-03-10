@@ -1,0 +1,1191 @@
+"GEOID","year","County","Geography","estimate","moe"
+"3603700474",2015,"Genesee","Alabama town",104100,6455
+"3603701165",2015,"Genesee","Alexander town",111400,6755
+"3603704715",2015,"Genesee","Batavia city",94100,3127
+"3603704726",2015,"Genesee","Batavia town",108900,10406
+"3603706057",2015,"Genesee","Bergen town",108000,6796
+"3603706266",2015,"Genesee","Bethany town",115000,5302
+"3603711572",2015,"Genesee","Byron town",102200,12315
+"3603719719",2015,"Genesee","Darien town",139400,12435
+"3603723756",2015,"Genesee","Elba town",114300,6296
+"3603742037",2015,"Genesee","Le Roy town",100900,6815
+"3603754166",2015,"Genesee","Oakfield town",95900,4915
+"3603756792",2015,"Genesee","Pavilion town",113000,12130
+"3603757078",2015,"Genesee","Pembroke town",128100,19047
+"3603770607",2015,"Genesee","Stafford town",119200,6484
+"3603775011",2015,"Genesee","Tonawanda Reservation",60800,11020
+"3605103364",2015,"Livingston","Avon town",139700,7866
+"3605111715",2015,"Livingston","Caledonia town",124200,6603
+"3605117618",2015,"Livingston","Conesus town",129800,13140
+"3605128629",2015,"Livingston","Geneseo town",157600,13582
+"3605131016",2015,"Livingston","Groveland town",134200,14685
+"3605141883",2015,"Livingston","Leicester town",98300,6829
+"3605142334",2015,"Livingston","Lima town",140200,6401
+"3605142961",2015,"Livingston","Livonia town",150800,11321
+"3605148956",2015,"Livingston","Mount Morris town",79500,12726
+"3605151869",2015,"Livingston","North Dansville town",85100,3268
+"3605154089",2015,"Livingston","Nunda town",94600,12249
+"3605155508",2015,"Livingston","Ossian town",111800,10707
+"3605159179",2015,"Livingston","Portage town",78700,3913
+"3605170101",2015,"Livingston","Sparta town",115100,12260
+"3605170475",2015,"Livingston","Springwater town",109000,8413
+"3605181006",2015,"Livingston","West Sparta town",92500,9868
+"3605184022",2015,"Livingston","York town",117100,12171
+"3605500000",2015,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2015,"Monroe","Brighton town",170300,2812
+"3605515462",2015,"Monroe","Chili town",136300,2185
+"3605515957",2015,"Monroe","Clarkson town",137200,6734
+"3605522870",2015,"Monroe","East Rochester town",94000,3036
+"3605528442",2015,"Monroe","Gates town",115200,1713
+"3605530290",2015,"Monroe","Greece town",128400,1851
+"3605531797",2015,"Monroe","Hamlin town",108900,4078
+"3605534099",2015,"Monroe","Henrietta town",139400,2475
+"3605537726",2015,"Monroe","Irondequoit town",117500,1298
+"3605546558",2015,"Monroe","Mendon town",239700,14266
+"3605554474",2015,"Monroe","Ogden town",150700,5662
+"3605556561",2015,"Monroe","Parma town",137400,6827
+"3605557144",2015,"Monroe","Penfield town",179800,5802
+"3605557221",2015,"Monroe","Perinton town",192600,3885
+"3605558365",2015,"Monroe","Pittsford town",262200,6105
+"3605561808",2015,"Monroe","Riga town",141900,7925
+"3605563000",2015,"Monroe","Rochester city",76200,1289
+"3605564144",2015,"Monroe","Rush town",187400,12161
+"3605572455",2015,"Monroe","Sweden town",131500,6360
+"3605578971",2015,"Monroe","Webster town",175200,3627
+"3605581402",2015,"Monroe","Wheatland town",134700,6335
+"3606908378",2015,"Ontario","Bristol town",152000,10719
+"3606912100",2015,"Ontario","Canadice town",132300,28891
+"3606912144",2015,"Ontario","Canandaigua city",155800,6506
+"3606912155",2015,"Ontario","Canandaigua town",215400,16290
+"3606921699",2015,"Ontario","East Bloomfield town",156900,13052
+"3606925406",2015,"Ontario","Farmington town",145900,6268
+"3606928640",2015,"Ontario","Geneva city",90700,3018
+"3606928651",2015,"Ontario","Geneva town",170000,14235
+"3606929531",2015,"Ontario","Gorham town",180900,18072
+"3606935551",2015,"Ontario","Hopewell town",117600,8743
+"3606944864",2015,"Ontario","Manchester town",92900,3826
+"3606949440",2015,"Ontario","Naples town",141300,14027
+"3606957529",2015,"Ontario","Phelps town",118900,6414
+"3606961544",2015,"Ontario","Richmond town",138600,20611
+"3606966289",2015,"Ontario","Seneca town",132100,12223
+"3606968660",2015,"Ontario","South Bristol town",218100,17501
+"3606977387",2015,"Ontario","Victor town",241800,15959
+"3606979356",2015,"Ontario","West Bloomfield town",105100,13130
+"3607300000",2015,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2015,"Orleans","Albion town",89400,19211
+"3607304572",2015,"Orleans","Barre town",90700,4084
+"3607312496",2015,"Orleans","Carlton town",102000,14201
+"3607315880",2015,"Orleans","Clarendon town",97900,10946
+"3607327958",2015,"Orleans","Gaines town",87200,16627
+"3607339188",2015,"Orleans","Kendall town",116700,7444
+"3607349286",2015,"Orleans","Murray town",89700,3579
+"3607361742",2015,"Orleans","Ridgeway town",87800,5600
+"3607366751",2015,"Orleans","Shelby town",80700,7908
+"3607383448",2015,"Orleans","Yates town",92100,7792
+"3609918663",2015,"Seneca","Covert town",113200,8233
+"3609925505",2015,"Seneca","Fayette town",125900,18087
+"3609928640",2015,"Seneca","Geneva city",NA,NA
+"3609938858",2015,"Seneca","Junius town",97100,3775
+"3609943225",2015,"Seneca","Lodi town",97900,21426
+"3609955827",2015,"Seneca","Ovid town",100800,11347
+"3609963440",2015,"Seneca","Romulus town",106800,13745
+"3609966333",2015,"Seneca","Seneca Falls town",96600,6486
+"3609975902",2015,"Seneca","Tyre town",91300,8935
+"3609976958",2015,"Seneca","Varick town",140500,23361
+"3609978564",2015,"Seneca","Waterloo town",78500,3247
+"3611700000",2015,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2015,"Wayne","Arcadia town",92500,6397
+"3611711473",2015,"Wayne","Butler town",88700,6840
+"3611728013",2015,"Wayne","Galen town",83700,3364
+"3611737165",2015,"Wayne","Huron town",163900,23944
+"3611743973",2015,"Wayne","Lyons town",69100,6586
+"3611744160",2015,"Wayne","Macedon town",136400,7567
+"3611745645",2015,"Wayne","Marion town",118500,5719
+"3611755013",2015,"Wayne","Ontario town",152600,9497
+"3611756198",2015,"Wayne","Palmyra town",101800,6808
+"3611763605",2015,"Wayne","Rose town",83500,9096
+"3611765343",2015,"Wayne","Savannah town",79200,6732
+"3611768220",2015,"Wayne","Sodus town",90000,7124
+"3611778102",2015,"Wayne","Walworth town",154100,7428
+"3611782040",2015,"Wayne","Williamson town",123800,7043
+"3611782689",2015,"Wayne","Wolcott town",81700,5323
+"3612304594",2015,"Yates","Barrington town",129200,28321
+"3612306002",2015,"Yates","Benton town",144300,11638
+"3612338044",2015,"Yates","Italy town",92600,11076
+"3612338583",2015,"Yates","Jerusalem town",160800,14272
+"3612347020",2015,"Yates","Middlesex town",130000,14911
+"3612347504",2015,"Yates","Milo town",113500,7414
+"3612359597",2015,"Yates","Potter town",118300,11805
+"3612370816",2015,"Yates","Starkey town",107000,11519
+"3612375055",2015,"Yates","Torrey town",159000,32667
+"3603700474",2016,"Genesee","Alabama town",103700,7737
+"3603701165",2016,"Genesee","Alexander town",114000,7277
+"3603704715",2016,"Genesee","Batavia city",93900,3450
+"3603704726",2016,"Genesee","Batavia town",104600,15453
+"3603706057",2016,"Genesee","Bergen town",114000,7137
+"3603706266",2016,"Genesee","Bethany town",115900,4128
+"3603711572",2016,"Genesee","Byron town",106700,12413
+"3603719719",2016,"Genesee","Darien town",150700,11919
+"3603723756",2016,"Genesee","Elba town",114100,6231
+"3603742037",2016,"Genesee","Le Roy town",104400,7455
+"3603754166",2016,"Genesee","Oakfield town",94700,4926
+"3603756792",2016,"Genesee","Pavilion town",113100,18575
+"3603757078",2016,"Genesee","Pembroke town",152200,10023
+"3603770607",2016,"Genesee","Stafford town",120100,8644
+"3603775011",2016,"Genesee","Tonawanda Reservation",57800,11945
+"3605103364",2016,"Livingston","Avon town",142200,8276
+"3605111715",2016,"Livingston","Caledonia town",130000,8024
+"3605117618",2016,"Livingston","Conesus town",137500,14460
+"3605128629",2016,"Livingston","Geneseo town",162500,9096
+"3605131016",2016,"Livingston","Groveland town",146900,12418
+"3605141883",2016,"Livingston","Leicester town",99400,9580
+"3605142334",2016,"Livingston","Lima town",145500,8163
+"3605142961",2016,"Livingston","Livonia town",147300,9715
+"3605148956",2016,"Livingston","Mount Morris town",77800,9830
+"3605151869",2016,"Livingston","North Dansville town",85500,2500
+"3605154089",2016,"Livingston","Nunda town",90100,6948
+"3605155508",2016,"Livingston","Ossian town",112000,9720
+"3605159179",2016,"Livingston","Portage town",78600,3786
+"3605170101",2016,"Livingston","Sparta town",112800,8699
+"3605170475",2016,"Livingston","Springwater town",109500,9235
+"3605181006",2016,"Livingston","West Sparta town",93800,10776
+"3605184022",2016,"Livingston","York town",115000,14194
+"3605500000",2016,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2016,"Monroe","Brighton town",171200,3050
+"3605515462",2016,"Monroe","Chili town",140000,2125
+"3605515957",2016,"Monroe","Clarkson town",141500,5500
+"3605522870",2016,"Monroe","East Rochester town",96700,3199
+"3605528442",2016,"Monroe","Gates town",116800,1919
+"3605530290",2016,"Monroe","Greece town",129000,1844
+"3605531797",2016,"Monroe","Hamlin town",111900,3831
+"3605534099",2016,"Monroe","Henrietta town",140700,2509
+"3605537726",2016,"Monroe","Irondequoit town",118000,1600
+"3605546558",2016,"Monroe","Mendon town",246900,12362
+"3605554474",2016,"Monroe","Ogden town",154000,4658
+"3605556561",2016,"Monroe","Parma town",141000,6248
+"3605557144",2016,"Monroe","Penfield town",186900,5466
+"3605557221",2016,"Monroe","Perinton town",193700,3387
+"3605558365",2016,"Monroe","Pittsford town",263900,7233
+"3605561808",2016,"Monroe","Riga town",146000,9197
+"3605563000",2016,"Monroe","Rochester city",77800,1448
+"3605564144",2016,"Monroe","Rush town",181900,11885
+"3605572455",2016,"Monroe","Sweden town",132900,7517
+"3605578971",2016,"Monroe","Webster town",176000,3770
+"3605581402",2016,"Monroe","Wheatland town",135500,7451
+"3606908378",2016,"Ontario","Bristol town",158300,8602
+"3606912100",2016,"Ontario","Canadice town",145300,22174
+"3606912144",2016,"Ontario","Canandaigua city",161200,7265
+"3606912155",2016,"Ontario","Canandaigua town",214500,16231
+"3606921699",2016,"Ontario","East Bloomfield town",160300,7798
+"3606925406",2016,"Ontario","Farmington town",147000,7993
+"3606928640",2016,"Ontario","Geneva city",91000,3964
+"3606928651",2016,"Ontario","Geneva town",180000,12352
+"3606929531",2016,"Ontario","Gorham town",176400,15916
+"3606935551",2016,"Ontario","Hopewell town",124600,10420
+"3606944864",2016,"Ontario","Manchester town",93900,4172
+"3606949440",2016,"Ontario","Naples town",131300,16184
+"3606957529",2016,"Ontario","Phelps town",120000,6529
+"3606961544",2016,"Ontario","Richmond town",142700,18222
+"3606966289",2016,"Ontario","Seneca town",132900,12631
+"3606968660",2016,"Ontario","South Bristol town",217900,17380
+"3606977387",2016,"Ontario","Victor town",249800,15579
+"3606979356",2016,"Ontario","West Bloomfield town",118200,12937
+"3607300000",2016,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2016,"Orleans","Albion town",89500,18542
+"3607304572",2016,"Orleans","Barre town",88600,4334
+"3607312496",2016,"Orleans","Carlton town",108500,17631
+"3607315880",2016,"Orleans","Clarendon town",106700,11891
+"3607327958",2016,"Orleans","Gaines town",84100,17205
+"3607339188",2016,"Orleans","Kendall town",119200,7517
+"3607349286",2016,"Orleans","Murray town",88100,3609
+"3607361742",2016,"Orleans","Ridgeway town",88900,5571
+"3607366751",2016,"Orleans","Shelby town",82000,5960
+"3607383448",2016,"Orleans","Yates town",95500,7763
+"3609918663",2016,"Seneca","Covert town",116500,6996
+"3609925505",2016,"Seneca","Fayette town",120600,15548
+"3609928640",2016,"Seneca","Geneva city",NA,NA
+"3609938858",2016,"Seneca","Junius town",95400,4137
+"3609943225",2016,"Seneca","Lodi town",105200,18634
+"3609955827",2016,"Seneca","Ovid town",98100,8000
+"3609963440",2016,"Seneca","Romulus town",1e+05,17063
+"3609966333",2016,"Seneca","Seneca Falls town",98800,5908
+"3609975902",2016,"Seneca","Tyre town",91100,6743
+"3609976958",2016,"Seneca","Varick town",147900,27298
+"3609978564",2016,"Seneca","Waterloo town",78900,3119
+"3611700000",2016,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2016,"Wayne","Arcadia town",93200,5275
+"3611711473",2016,"Wayne","Butler town",90300,7946
+"3611728013",2016,"Wayne","Galen town",83800,4160
+"3611737165",2016,"Wayne","Huron town",180200,24547
+"3611743973",2016,"Wayne","Lyons town",77200,5686
+"3611744160",2016,"Wayne","Macedon town",142100,7783
+"3611745645",2016,"Wayne","Marion town",115100,6384
+"3611755013",2016,"Wayne","Ontario town",149900,9347
+"3611756198",2016,"Wayne","Palmyra town",104200,8837
+"3611763605",2016,"Wayne","Rose town",84700,6658
+"3611765343",2016,"Wayne","Savannah town",79500,6141
+"3611768220",2016,"Wayne","Sodus town",91300,7422
+"3611778102",2016,"Wayne","Walworth town",156800,7937
+"3611782040",2016,"Wayne","Williamson town",130200,10916
+"3611782689",2016,"Wayne","Wolcott town",78700,5017
+"3612304594",2016,"Yates","Barrington town",138600,22026
+"3612306002",2016,"Yates","Benton town",159100,15005
+"3612338044",2016,"Yates","Italy town",93500,8620
+"3612338583",2016,"Yates","Jerusalem town",153500,17016
+"3612347020",2016,"Yates","Middlesex town",134100,13160
+"3612347504",2016,"Yates","Milo town",115300,9228
+"3612359597",2016,"Yates","Potter town",118900,10991
+"3612370816",2016,"Yates","Starkey town",110700,7630
+"3612375055",2016,"Yates","Torrey town",158300,16186
+"3603700474",2017,"Genesee","Alabama town",105300,9825
+"3603701165",2017,"Genesee","Alexander town",121800,7997
+"3603704715",2017,"Genesee","Batavia city",94200,3212
+"3603704726",2017,"Genesee","Batavia town",120800,12767
+"3603706057",2017,"Genesee","Bergen town",120100,11224
+"3603706266",2017,"Genesee","Bethany town",119000,5071
+"3603711572",2017,"Genesee","Byron town",114800,12148
+"3603719719",2017,"Genesee","Darien town",154100,8826
+"3603723756",2017,"Genesee","Elba town",112300,6102
+"3603742037",2017,"Genesee","Le Roy town",102600,7023
+"3603754166",2017,"Genesee","Oakfield town",94100,3969
+"3603756792",2017,"Genesee","Pavilion town",119000,9070
+"3603757078",2017,"Genesee","Pembroke town",149300,13187
+"3603770607",2017,"Genesee","Stafford town",119400,9002
+"3603775011",2017,"Genesee","Tonawanda Reservation",NA,NA
+"3605103364",2017,"Livingston","Avon town",142300,8750
+"3605111715",2017,"Livingston","Caledonia town",128300,7338
+"3605117618",2017,"Livingston","Conesus town",136600,14181
+"3605128629",2017,"Livingston","Geneseo town",170600,7685
+"3605131016",2017,"Livingston","Groveland town",145900,17808
+"3605141883",2017,"Livingston","Leicester town",108400,10916
+"3605142334",2017,"Livingston","Lima town",145600,7584
+"3605142961",2017,"Livingston","Livonia town",152300,11076
+"3605148956",2017,"Livingston","Mount Morris town",83500,14007
+"3605151869",2017,"Livingston","North Dansville town",85200,3166
+"3605154089",2017,"Livingston","Nunda town",89900,7504
+"3605155508",2017,"Livingston","Ossian town",110100,8250
+"3605159179",2017,"Livingston","Portage town",77400,4357
+"3605170101",2017,"Livingston","Sparta town",112600,8139
+"3605170475",2017,"Livingston","Springwater town",111500,7110
+"3605181006",2017,"Livingston","West Sparta town",91800,13708
+"3605184022",2017,"Livingston","York town",115700,16560
+"3605500000",2017,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2017,"Monroe","Brighton town",171800,2764
+"3605515462",2017,"Monroe","Chili town",142000,1996
+"3605515957",2017,"Monroe","Clarkson town",145500,6590
+"3605522870",2017,"Monroe","East Rochester town",97300,3435
+"3605528442",2017,"Monroe","Gates town",117100,2024
+"3605530290",2017,"Monroe","Greece town",130500,1959
+"3605531797",2017,"Monroe","Hamlin town",113000,4332
+"3605534099",2017,"Monroe","Henrietta town",141300,2323
+"3605537726",2017,"Monroe","Irondequoit town",118600,1373
+"3605546558",2017,"Monroe","Mendon town",250300,14963
+"3605554474",2017,"Monroe","Ogden town",157200,5358
+"3605556561",2017,"Monroe","Parma town",147100,5328
+"3605557144",2017,"Monroe","Penfield town",193800,5283
+"3605557221",2017,"Monroe","Perinton town",196600,3736
+"3605558365",2017,"Monroe","Pittsford town",270400,7196
+"3605561808",2017,"Monroe","Riga town",153000,9509
+"3605563000",2017,"Monroe","Rochester city",79400,1324
+"3605564144",2017,"Monroe","Rush town",190300,12245
+"3605572455",2017,"Monroe","Sweden town",134800,5930
+"3605578971",2017,"Monroe","Webster town",180200,2968
+"3605581402",2017,"Monroe","Wheatland town",133600,6657
+"3606908378",2017,"Ontario","Bristol town",163400,10544
+"3606912100",2017,"Ontario","Canadice town",149700,13555
+"3606912144",2017,"Ontario","Canandaigua city",161300,6465
+"3606912155",2017,"Ontario","Canandaigua town",225900,16479
+"3606921699",2017,"Ontario","East Bloomfield town",163800,10492
+"3606925406",2017,"Ontario","Farmington town",158800,7311
+"3606928640",2017,"Ontario","Geneva city",93700,3305
+"3606928651",2017,"Ontario","Geneva town",185400,16674
+"3606929531",2017,"Ontario","Gorham town",174800,18546
+"3606935551",2017,"Ontario","Hopewell town",123200,7786
+"3606944864",2017,"Ontario","Manchester town",97600,4658
+"3606949440",2017,"Ontario","Naples town",139500,14713
+"3606957529",2017,"Ontario","Phelps town",127300,8409
+"3606961544",2017,"Ontario","Richmond town",163300,20128
+"3606966289",2017,"Ontario","Seneca town",138300,9652
+"3606968660",2017,"Ontario","South Bristol town",230000,17594
+"3606977387",2017,"Ontario","Victor town",258200,18546
+"3606979356",2017,"Ontario","West Bloomfield town",120400,12093
+"3607300000",2017,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2017,"Orleans","Albion town",89700,14966
+"3607304572",2017,"Orleans","Barre town",90500,4383
+"3607312496",2017,"Orleans","Carlton town",106800,14925
+"3607315880",2017,"Orleans","Clarendon town",101600,12907
+"3607327958",2017,"Orleans","Gaines town",86200,15642
+"3607339188",2017,"Orleans","Kendall town",112400,7603
+"3607349286",2017,"Orleans","Murray town",95000,6667
+"3607361742",2017,"Orleans","Ridgeway town",89600,7047
+"3607366751",2017,"Orleans","Shelby town",82600,7361
+"3607383448",2017,"Orleans","Yates town",96400,6725
+"3609918663",2017,"Seneca","Covert town",126600,16566
+"3609925505",2017,"Seneca","Fayette town",109200,13860
+"3609928640",2017,"Seneca","Geneva city",NA,NA
+"3609938858",2017,"Seneca","Junius town",94400,4820
+"3609943225",2017,"Seneca","Lodi town",118800,11905
+"3609955827",2017,"Seneca","Ovid town",99100,9446
+"3609963440",2017,"Seneca","Romulus town",99400,22384
+"3609966333",2017,"Seneca","Seneca Falls town",100700,6846
+"3609975902",2017,"Seneca","Tyre town",94300,9924
+"3609976958",2017,"Seneca","Varick town",144000,21829
+"3609978564",2017,"Seneca","Waterloo town",77800,3139
+"3611700000",2017,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2017,"Wayne","Arcadia town",96700,4324
+"3611711473",2017,"Wayne","Butler town",88400,6738
+"3611728013",2017,"Wayne","Galen town",83900,4222
+"3611737165",2017,"Wayne","Huron town",184600,13413
+"3611743973",2017,"Wayne","Lyons town",81000,7540
+"3611744160",2017,"Wayne","Macedon town",143700,7022
+"3611745645",2017,"Wayne","Marion town",112900,7783
+"3611755013",2017,"Wayne","Ontario town",151800,9801
+"3611756198",2017,"Wayne","Palmyra town",113900,8073
+"3611763605",2017,"Wayne","Rose town",85400,7600
+"3611765343",2017,"Wayne","Savannah town",84500,4018
+"3611768220",2017,"Wayne","Sodus town",98500,9460
+"3611778102",2017,"Wayne","Walworth town",162200,5609
+"3611782040",2017,"Wayne","Williamson town",128600,8396
+"3611782689",2017,"Wayne","Wolcott town",80500,6453
+"3612304594",2017,"Yates","Barrington town",169000,43423
+"3612306002",2017,"Yates","Benton town",157000,19348
+"3612338044",2017,"Yates","Italy town",95000,9354
+"3612338583",2017,"Yates","Jerusalem town",169900,22772
+"3612347020",2017,"Yates","Middlesex town",136700,10188
+"3612347504",2017,"Yates","Milo town",113600,8797
+"3612359597",2017,"Yates","Potter town",117300,9938
+"3612370816",2017,"Yates","Starkey town",103700,11795
+"3612375055",2017,"Yates","Torrey town",161400,25990
+"3603700474",2018,"Genesee","Alabama town",107800,9790
+"3603701165",2018,"Genesee","Alexander town",130100,12226
+"3603704715",2018,"Genesee","Batavia city",96300,3325
+"3603704726",2018,"Genesee","Batavia town",133100,10556
+"3603706057",2018,"Genesee","Bergen town",118800,9088
+"3603706266",2018,"Genesee","Bethany town",122600,8278
+"3603711572",2018,"Genesee","Byron town",120000,11010
+"3603719719",2018,"Genesee","Darien town",153100,14500
+"3603723756",2018,"Genesee","Elba town",116000,6731
+"3603742037",2018,"Genesee","Le Roy town",111400,6283
+"3603754166",2018,"Genesee","Oakfield town",99800,8881
+"3603756792",2018,"Genesee","Pavilion town",127700,10911
+"3603757078",2018,"Genesee","Pembroke town",154300,9525
+"3603770607",2018,"Genesee","Stafford town",122100,10342
+"3603775011",2018,"Genesee","Tonawanda Reservation",53100,28325
+"3605103364",2018,"Livingston","Avon town",142300,9325
+"3605111715",2018,"Livingston","Caledonia town",126900,7858
+"3605117618",2018,"Livingston","Conesus town",138700,12145
+"3605128629",2018,"Livingston","Geneseo town",177600,14268
+"3605131016",2018,"Livingston","Groveland town",148100,11502
+"3605141883",2018,"Livingston","Leicester town",115400,9485
+"3605142334",2018,"Livingston","Lima town",153200,6674
+"3605142961",2018,"Livingston","Livonia town",151400,9830
+"3605148956",2018,"Livingston","Mount Morris town",87300,15248
+"3605151869",2018,"Livingston","North Dansville town",86700,2997
+"3605154089",2018,"Livingston","Nunda town",88300,6455
+"3605155508",2018,"Livingston","Ossian town",116900,7481
+"3605159179",2018,"Livingston","Portage town",77900,4595
+"3605170101",2018,"Livingston","Sparta town",114700,7542
+"3605170475",2018,"Livingston","Springwater town",121300,10209
+"3605181006",2018,"Livingston","West Sparta town",87200,9652
+"3605184022",2018,"Livingston","York town",114200,11478
+"3605500000",2018,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2018,"Monroe","Brighton town",175200,4999
+"3605515462",2018,"Monroe","Chili town",144600,2318
+"3605515957",2018,"Monroe","Clarkson town",150100,9921
+"3605522870",2018,"Monroe","East Rochester town",99500,4857
+"3605528442",2018,"Monroe","Gates town",118000,2172
+"3605530290",2018,"Monroe","Greece town",132600,1760
+"3605531797",2018,"Monroe","Hamlin town",117500,4107
+"3605534099",2018,"Monroe","Henrietta town",142600,2291
+"3605537726",2018,"Monroe","Irondequoit town",120600,1362
+"3605546558",2018,"Monroe","Mendon town",250600,13082
+"3605554474",2018,"Monroe","Ogden town",158900,4657
+"3605556561",2018,"Monroe","Parma town",145700,4562
+"3605557144",2018,"Monroe","Penfield town",201600,5668
+"3605557221",2018,"Monroe","Perinton town",200300,4455
+"3605558365",2018,"Monroe","Pittsford town",273600,7647
+"3605561808",2018,"Monroe","Riga town",153200,8776
+"3605563000",2018,"Monroe","Rochester city",82000,1639
+"3605564144",2018,"Monroe","Rush town",194000,12129
+"3605572455",2018,"Monroe","Sweden town",140900,6616
+"3605578971",2018,"Monroe","Webster town",184300,3485
+"3605581402",2018,"Monroe","Wheatland town",130800,9076
+"3606908378",2018,"Ontario","Bristol town",174600,13105
+"3606912100",2018,"Ontario","Canadice town",151600,17106
+"3606912144",2018,"Ontario","Canandaigua city",166200,7452
+"3606912155",2018,"Ontario","Canandaigua town",246900,14941
+"3606921699",2018,"Ontario","East Bloomfield town",163000,9996
+"3606925406",2018,"Ontario","Farmington town",158400,8030
+"3606928640",2018,"Ontario","Geneva city",94600,3489
+"3606928651",2018,"Ontario","Geneva town",189900,15657
+"3606929531",2018,"Ontario","Gorham town",171800,16368
+"3606935551",2018,"Ontario","Hopewell town",118600,9862
+"3606944864",2018,"Ontario","Manchester town",95900,3799
+"3606949440",2018,"Ontario","Naples town",141700,11152
+"3606957529",2018,"Ontario","Phelps town",125200,11081
+"3606961544",2018,"Ontario","Richmond town",170100,32521
+"3606966289",2018,"Ontario","Seneca town",141400,13200
+"3606968660",2018,"Ontario","South Bristol town",220300,17868
+"3606977387",2018,"Ontario","Victor town",273200,17471
+"3606979356",2018,"Ontario","West Bloomfield town",139100,18462
+"3607300000",2018,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2018,"Orleans","Albion town",92200,16164
+"3607304572",2018,"Orleans","Barre town",94300,5305
+"3607312496",2018,"Orleans","Carlton town",115700,10625
+"3607315880",2018,"Orleans","Clarendon town",110600,10914
+"3607327958",2018,"Orleans","Gaines town",85400,14208
+"3607339188",2018,"Orleans","Kendall town",117500,9711
+"3607349286",2018,"Orleans","Murray town",97600,6024
+"3607361742",2018,"Orleans","Ridgeway town",90200,6974
+"3607366751",2018,"Orleans","Shelby town",79000,8317
+"3607383448",2018,"Orleans","Yates town",98300,7448
+"3609918663",2018,"Seneca","Covert town",137000,21703
+"3609925505",2018,"Seneca","Fayette town",124500,17748
+"3609928640",2018,"Seneca","Geneva city",NA,NA
+"3609938858",2018,"Seneca","Junius town",97700,10619
+"3609943225",2018,"Seneca","Lodi town",122900,15728
+"3609955827",2018,"Seneca","Ovid town",103700,11875
+"3609963440",2018,"Seneca","Romulus town",96700,23089
+"3609966333",2018,"Seneca","Seneca Falls town",104800,8156
+"3609975902",2018,"Seneca","Tyre town",97100,10003
+"3609976958",2018,"Seneca","Varick town",145700,30007
+"3609978564",2018,"Seneca","Waterloo town",78300,2838
+"3611700000",2018,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2018,"Wayne","Arcadia town",97000,3310
+"3611711473",2018,"Wayne","Butler town",88000,6307
+"3611728013",2018,"Wayne","Galen town",81700,4730
+"3611737165",2018,"Wayne","Huron town",175300,19031
+"3611743973",2018,"Wayne","Lyons town",82100,9470
+"3611744160",2018,"Wayne","Macedon town",147100,8938
+"3611745645",2018,"Wayne","Marion town",123800,11263
+"3611755013",2018,"Wayne","Ontario town",156900,12091
+"3611756198",2018,"Wayne","Palmyra town",113000,7432
+"3611763605",2018,"Wayne","Rose town",88200,7517
+"3611765343",2018,"Wayne","Savannah town",83600,3984
+"3611768220",2018,"Wayne","Sodus town",103900,9757
+"3611778102",2018,"Wayne","Walworth town",165700,5907
+"3611782040",2018,"Wayne","Williamson town",132300,7796
+"3611782689",2018,"Wayne","Wolcott town",82000,6604
+"3612304594",2018,"Yates","Barrington town",144900,23800
+"3612306002",2018,"Yates","Benton town",157400,22359
+"3612338044",2018,"Yates","Italy town",110400,23404
+"3612338583",2018,"Yates","Jerusalem town",172600,16442
+"3612347020",2018,"Yates","Middlesex town",140200,12750
+"3612347504",2018,"Yates","Milo town",112200,6627
+"3612359597",2018,"Yates","Potter town",112600,7505
+"3612370816",2018,"Yates","Starkey town",102800,12949
+"3612375055",2018,"Yates","Torrey town",165200,18651
+"3603700474",2019,"Genesee","Alabama town",116800,9274
+"3603701165",2019,"Genesee","Alexander town",133300,11957
+"3603704715",2019,"Genesee","Batavia city",96900,2566
+"3603704726",2019,"Genesee","Batavia town",133000,14020
+"3603706057",2019,"Genesee","Bergen town",120000,9490
+"3603706266",2019,"Genesee","Bethany town",125800,11183
+"3603711572",2019,"Genesee","Byron town",115700,7508
+"3603719719",2019,"Genesee","Darien town",171300,22728
+"3603723756",2019,"Genesee","Elba town",119400,8064
+"3603742037",2019,"Genesee","Le Roy town",118500,6848
+"3603754166",2019,"Genesee","Oakfield town",98300,7706
+"3603756792",2019,"Genesee","Pavilion town",127900,12095
+"3603757078",2019,"Genesee","Pembroke town",150700,13505
+"3603770607",2019,"Genesee","Stafford town",124800,9353
+"3603775011",2019,"Genesee","Tonawanda Reservation",57800,29378
+"3605103364",2019,"Livingston","Avon town",144500,10717
+"3605111715",2019,"Livingston","Caledonia town",125500,7752
+"3605117618",2019,"Livingston","Conesus town",145000,16564
+"3605128629",2019,"Livingston","Geneseo town",172800,8517
+"3605131016",2019,"Livingston","Groveland town",146000,12700
+"3605141883",2019,"Livingston","Leicester town",116800,7849
+"3605142334",2019,"Livingston","Lima town",158900,6839
+"3605142961",2019,"Livingston","Livonia town",153500,9456
+"3605148956",2019,"Livingston","Mount Morris town",91900,4560
+"3605151869",2019,"Livingston","North Dansville town",86500,4057
+"3605154089",2019,"Livingston","Nunda town",89400,6058
+"3605155508",2019,"Livingston","Ossian town",118900,9395
+"3605159179",2019,"Livingston","Portage town",81900,6017
+"3605170101",2019,"Livingston","Sparta town",118100,8454
+"3605170475",2019,"Livingston","Springwater town",124900,12529
+"3605181006",2019,"Livingston","West Sparta town",98300,22065
+"3605184022",2019,"Livingston","York town",121600,16210
+"3605500000",2019,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2019,"Monroe","Brighton town",184600,4717
+"3605515462",2019,"Monroe","Chili town",147100,2401
+"3605515957",2019,"Monroe","Clarkson town",156400,8621
+"3605522870",2019,"Monroe","East Rochester town",104300,6981
+"3605528442",2019,"Monroe","Gates town",121200,2291
+"3605530290",2019,"Monroe","Greece town",135500,1793
+"3605531797",2019,"Monroe","Hamlin town",118000,4274
+"3605534099",2019,"Monroe","Henrietta town",145500,1954
+"3605537726",2019,"Monroe","Irondequoit town",123800,1870
+"3605546558",2019,"Monroe","Mendon town",254100,14090
+"3605554474",2019,"Monroe","Ogden town",163400,5443
+"3605556561",2019,"Monroe","Parma town",153800,5608
+"3605557144",2019,"Monroe","Penfield town",208400,6825
+"3605557221",2019,"Monroe","Perinton town",207900,4732
+"3605558365",2019,"Monroe","Pittsford town",277900,6637
+"3605561808",2019,"Monroe","Riga town",158800,8150
+"3605563000",2019,"Monroe","Rochester city",83100,1929
+"3605564144",2019,"Monroe","Rush town",201300,13544
+"3605572455",2019,"Monroe","Sweden town",137800,6252
+"3605578971",2019,"Monroe","Webster town",189400,3458
+"3605581402",2019,"Monroe","Wheatland town",140300,8259
+"3606908378",2019,"Ontario","Bristol town",173400,12214
+"3606912100",2019,"Ontario","Canadice town",139200,18367
+"3606912144",2019,"Ontario","Canandaigua city",164400,7847
+"3606912155",2019,"Ontario","Canandaigua town",250900,14711
+"3606921699",2019,"Ontario","East Bloomfield town",160200,8248
+"3606925406",2019,"Ontario","Farmington town",159700,8746
+"3606928640",2019,"Ontario","Geneva city",96200,3269
+"3606928651",2019,"Ontario","Geneva town",201700,21095
+"3606929531",2019,"Ontario","Gorham town",169000,14338
+"3606935551",2019,"Ontario","Hopewell town",130400,10060
+"3606944864",2019,"Ontario","Manchester town",99300,5465
+"3606949440",2019,"Ontario","Naples town",147100,13541
+"3606957529",2019,"Ontario","Phelps town",126500,10174
+"3606961544",2019,"Ontario","Richmond town",167200,23932
+"3606966289",2019,"Ontario","Seneca town",144800,11461
+"3606968660",2019,"Ontario","South Bristol town",222800,14544
+"3606977387",2019,"Ontario","Victor town",288500,19766
+"3606979356",2019,"Ontario","West Bloomfield town",152000,14686
+"3607300000",2019,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2019,"Orleans","Albion town",83500,11573
+"3607304572",2019,"Orleans","Barre town",103100,12573
+"3607312496",2019,"Orleans","Carlton town",118500,12061
+"3607315880",2019,"Orleans","Clarendon town",109600,10341
+"3607327958",2019,"Orleans","Gaines town",84500,17658
+"3607339188",2019,"Orleans","Kendall town",123200,11622
+"3607349286",2019,"Orleans","Murray town",98600,5026
+"3607361742",2019,"Orleans","Ridgeway town",97000,10742
+"3607366751",2019,"Orleans","Shelby town",85000,4476
+"3607383448",2019,"Orleans","Yates town",102300,7741
+"3609918663",2019,"Seneca","Covert town",156000,12981
+"3609925505",2019,"Seneca","Fayette town",135200,10762
+"3609928640",2019,"Seneca","Geneva city",NA,NA
+"3609938858",2019,"Seneca","Junius town",104800,11537
+"3609943225",2019,"Seneca","Lodi town",120900,14052
+"3609955827",2019,"Seneca","Ovid town",109300,11559
+"3609963440",2019,"Seneca","Romulus town",106100,17833
+"3609966333",2019,"Seneca","Seneca Falls town",105900,6853
+"3609975902",2019,"Seneca","Tyre town",112500,19509
+"3609976958",2019,"Seneca","Varick town",165200,29779
+"3609978564",2019,"Seneca","Waterloo town",80700,5396
+"3611700000",2019,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2019,"Wayne","Arcadia town",97500,3096
+"3611711473",2019,"Wayne","Butler town",84900,5619
+"3611728013",2019,"Wayne","Galen town",78300,5820
+"3611737165",2019,"Wayne","Huron town",186000,13151
+"3611743973",2019,"Wayne","Lyons town",83600,6228
+"3611744160",2019,"Wayne","Macedon town",149200,8418
+"3611745645",2019,"Wayne","Marion town",120500,12063
+"3611755013",2019,"Wayne","Ontario town",166600,7441
+"3611756198",2019,"Wayne","Palmyra town",115300,7833
+"3611763605",2019,"Wayne","Rose town",86500,8445
+"3611765343",2019,"Wayne","Savannah town",85100,5095
+"3611768220",2019,"Wayne","Sodus town",106400,10643
+"3611778102",2019,"Wayne","Walworth town",167300,5668
+"3611782040",2019,"Wayne","Williamson town",136800,9062
+"3611782689",2019,"Wayne","Wolcott town",83100,6628
+"3612304594",2019,"Yates","Barrington town",154600,44894
+"3612306002",2019,"Yates","Benton town",163300,16328
+"3612338044",2019,"Yates","Italy town",103800,18469
+"3612338583",2019,"Yates","Jerusalem town",178300,14087
+"3612347020",2019,"Yates","Middlesex town",148500,14337
+"3612347504",2019,"Yates","Milo town",114000,7578
+"3612359597",2019,"Yates","Potter town",119500,10232
+"3612370816",2019,"Yates","Starkey town",103900,19098
+"3612375055",2019,"Yates","Torrey town",160500,12474
+"3603700474",2020,"Genesee","Alabama town",106500,11150
+"3603701165",2020,"Genesee","Alexander town",118600,23011
+"3603704715",2020,"Genesee","Batavia city",99400,5012
+"3603704726",2020,"Genesee","Batavia town",148400,30501
+"3603706057",2020,"Genesee","Bergen town",135200,8861
+"3603706266",2020,"Genesee","Bethany town",128900,13984
+"3603711572",2020,"Genesee","Byron town",124300,12389
+"3603719719",2020,"Genesee","Darien town",197500,19872
+"3603723756",2020,"Genesee","Elba town",119600,10252
+"3603742037",2020,"Genesee","Le Roy town",128700,7088
+"3603754166",2020,"Genesee","Oakfield town",109300,6539
+"3603756792",2020,"Genesee","Pavilion town",125200,13080
+"3603757078",2020,"Genesee","Pembroke town",145400,13542
+"3603770607",2020,"Genesee","Stafford town",129700,10211
+"3603775011",2020,"Genesee","Tonawanda Reservation",58100,35106
+"3605103364",2020,"Livingston","Avon town",154500,10007
+"3605111715",2020,"Livingston","Caledonia town",137100,8065
+"3605117618",2020,"Livingston","Conesus town",159900,17252
+"3605128629",2020,"Livingston","Geneseo town",176100,8902
+"3605131016",2020,"Livingston","Groveland town",159900,19874
+"3605141883",2020,"Livingston","Leicester town",121900,8694
+"3605142334",2020,"Livingston","Lima town",162800,7931
+"3605142961",2020,"Livingston","Livonia town",158600,11885
+"3605148956",2020,"Livingston","Mount Morris town",86400,9854
+"3605151869",2020,"Livingston","North Dansville town",88000,3961
+"3605154089",2020,"Livingston","Nunda town",88600,8009
+"3605155508",2020,"Livingston","Ossian town",117000,14304
+"3605159179",2020,"Livingston","Portage town",86400,11964
+"3605170101",2020,"Livingston","Sparta town",120300,6153
+"3605170475",2020,"Livingston","Springwater town",127200,21264
+"3605181006",2020,"Livingston","West Sparta town",89700,22663
+"3605184022",2020,"Livingston","York town",145600,28839
+"3605500000",2020,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2020,"Monroe","Brighton town",194300,6384
+"3605515462",2020,"Monroe","Chili town",148100,3453
+"3605515957",2020,"Monroe","Clarkson town",160500,5683
+"3605522870",2020,"Monroe","East Rochester town",105400,7391
+"3605528442",2020,"Monroe","Gates town",127400,2428
+"3605530290",2020,"Monroe","Greece town",136900,2295
+"3605531797",2020,"Monroe","Hamlin town",124400,7517
+"3605534099",2020,"Monroe","Henrietta town",154200,4720
+"3605537726",2020,"Monroe","Irondequoit town",129000,2073
+"3605546558",2020,"Monroe","Mendon town",278700,16443
+"3605554474",2020,"Monroe","Ogden town",162500,8690
+"3605556561",2020,"Monroe","Parma town",156700,7425
+"3605557144",2020,"Monroe","Penfield town",216400,8968
+"3605557221",2020,"Monroe","Perinton town",217300,5645
+"3605558365",2020,"Monroe","Pittsford town",284900,9646
+"3605561808",2020,"Monroe","Riga town",163800,8998
+"3605563000",2020,"Monroe","Rochester city",88100,2209
+"3605564144",2020,"Monroe","Rush town",194200,8640
+"3605572455",2020,"Monroe","Sweden town",132100,8953
+"3605578971",2020,"Monroe","Webster town",192800,4049
+"3605581402",2020,"Monroe","Wheatland town",138600,7137
+"3606908378",2020,"Ontario","Bristol town",160800,14109
+"3606912100",2020,"Ontario","Canadice town",155100,10526
+"3606912144",2020,"Ontario","Canandaigua city",177200,10089
+"3606912155",2020,"Ontario","Canandaigua town",248900,20517
+"3606921699",2020,"Ontario","East Bloomfield town",163400,10560
+"3606925406",2020,"Ontario","Farmington town",163000,5429
+"3606928640",2020,"Ontario","Geneva city",100200,9419
+"3606928651",2020,"Ontario","Geneva town",173500,32761
+"3606929531",2020,"Ontario","Gorham town",166700,16198
+"3606935551",2020,"Ontario","Hopewell town",118700,17487
+"3606944864",2020,"Ontario","Manchester town",103800,9272
+"3606949440",2020,"Ontario","Naples town",141700,14697
+"3606957529",2020,"Ontario","Phelps town",145600,15157
+"3606961544",2020,"Ontario","Richmond town",154300,16813
+"3606966289",2020,"Ontario","Seneca town",143800,14803
+"3606968660",2020,"Ontario","South Bristol town",228900,16048
+"3606977387",2020,"Ontario","Victor town",290600,16258
+"3606979356",2020,"Ontario","West Bloomfield town",154100,23035
+"3607300000",2020,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2020,"Orleans","Albion town",77800,6663
+"3607304572",2020,"Orleans","Barre town",106400,12418
+"3607312496",2020,"Orleans","Carlton town",117800,10886
+"3607315880",2020,"Orleans","Clarendon town",113100,10684
+"3607327958",2020,"Orleans","Gaines town",68200,17369
+"3607339188",2020,"Orleans","Kendall town",125300,10882
+"3607349286",2020,"Orleans","Murray town",101700,7734
+"3607361742",2020,"Orleans","Ridgeway town",115300,10938
+"3607366751",2020,"Orleans","Shelby town",86900,2589
+"3607383448",2020,"Orleans","Yates town",99600,13030
+"3609918663",2020,"Seneca","Covert town",167500,15406
+"3609925505",2020,"Seneca","Fayette town",123400,14180
+"3609928640",2020,"Seneca","Geneva city",NA,NA
+"3609938858",2020,"Seneca","Junius town",108500,12265
+"3609943225",2020,"Seneca","Lodi town",137500,34682
+"3609955827",2020,"Seneca","Ovid town",121000,24603
+"3609963440",2020,"Seneca","Romulus town",117300,19211
+"3609966333",2020,"Seneca","Seneca Falls town",101300,6825
+"3609975902",2020,"Seneca","Tyre town",114200,37506
+"3609976958",2020,"Seneca","Varick town",175000,37862
+"3609978564",2020,"Seneca","Waterloo town",86400,6944
+"3611700000",2020,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2020,"Wayne","Arcadia town",100400,6748
+"3611711473",2020,"Wayne","Butler town",72600,18590
+"3611728013",2020,"Wayne","Galen town",76200,9231
+"3611737165",2020,"Wayne","Huron town",166600,16339
+"3611743973",2020,"Wayne","Lyons town",86000,6570
+"3611744160",2020,"Wayne","Macedon town",155400,6323
+"3611745645",2020,"Wayne","Marion town",124600,15878
+"3611755013",2020,"Wayne","Ontario town",168100,7937
+"3611756198",2020,"Wayne","Palmyra town",118500,10743
+"3611763605",2020,"Wayne","Rose town",86400,5748
+"3611765343",2020,"Wayne","Savannah town",87900,11590
+"3611768220",2020,"Wayne","Sodus town",117900,14356
+"3611778102",2020,"Wayne","Walworth town",171800,8235
+"3611782040",2020,"Wayne","Williamson town",145300,12423
+"3611782689",2020,"Wayne","Wolcott town",77700,7762
+"3612304594",2020,"Yates","Barrington town",200400,43191
+"3612306002",2020,"Yates","Benton town",173800,19459
+"3612338044",2020,"Yates","Italy town",119100,24340
+"3612338583",2020,"Yates","Jerusalem town",184200,17542
+"3612347020",2020,"Yates","Middlesex town",157100,16491
+"3612347504",2020,"Yates","Milo town",120400,8102
+"3612359597",2020,"Yates","Potter town",111900,13558
+"3612370816",2020,"Yates","Starkey town",98000,15017
+"3612375055",2020,"Yates","Torrey town",165200,15491
+"3603700474",2021,"Genesee","Alabama town",111900,11014
+"3603701165",2021,"Genesee","Alexander town",122500,27728
+"3603704715",2021,"Genesee","Batavia city",108100,10805
+"3603704726",2021,"Genesee","Batavia town",156800,9420
+"3603706057",2021,"Genesee","Bergen town",131400,13992
+"3603706266",2021,"Genesee","Bethany town",136700,15214
+"3603711572",2021,"Genesee","Byron town",130000,11949
+"3603719719",2021,"Genesee","Darien town",196100,24657
+"3603723756",2021,"Genesee","Elba town",123200,14856
+"3603742037",2021,"Genesee","Le Roy town",129900,8069
+"3603754166",2021,"Genesee","Oakfield town",115900,7191
+"3603756792",2021,"Genesee","Pavilion town",132800,20874
+"3603757078",2021,"Genesee","Pembroke town",133600,17977
+"3603770607",2021,"Genesee","Stafford town",138700,9559
+"3603775011",2021,"Genesee","Tonawanda Reservation",138700,15103
+"3605103364",2021,"Livingston","Avon town",163400,9826
+"3605111715",2021,"Livingston","Caledonia town",143900,9689
+"3605117618",2021,"Livingston","Conesus town",161300,17079
+"3605128629",2021,"Livingston","Geneseo town",184100,14936
+"3605131016",2021,"Livingston","Groveland town",178800,25489
+"3605141883",2021,"Livingston","Leicester town",127900,10387
+"3605142334",2021,"Livingston","Lima town",164000,9828
+"3605142961",2021,"Livingston","Livonia town",166700,12389
+"3605148956",2021,"Livingston","Mount Morris town",87500,9874
+"3605151869",2021,"Livingston","North Dansville town",93200,10498
+"3605154089",2021,"Livingston","Nunda town",90500,14469
+"3605155508",2021,"Livingston","Ossian town",125000,22896
+"3605159179",2021,"Livingston","Portage town",94400,20950
+"3605170101",2021,"Livingston","Sparta town",134900,25823
+"3605170475",2021,"Livingston","Springwater town",122700,22087
+"3605181006",2021,"Livingston","West Sparta town",89800,24139
+"3605184022",2021,"Livingston","York town",157000,9684
+"3605500000",2021,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2021,"Monroe","Brighton town",206200,7867
+"3605515462",2021,"Monroe","Chili town",150100,5560
+"3605515957",2021,"Monroe","Clarkson town",167900,8390
+"3605522870",2021,"Monroe","East Rochester town",109600,7370
+"3605528442",2021,"Monroe","Gates town",131900,2222
+"3605530290",2021,"Monroe","Greece town",143300,2738
+"3605531797",2021,"Monroe","Hamlin town",133400,8436
+"3605534099",2021,"Monroe","Henrietta town",164300,4807
+"3605537726",2021,"Monroe","Irondequoit town",134800,2094
+"3605546558",2021,"Monroe","Mendon town",269600,21489
+"3605554474",2021,"Monroe","Ogden town",171200,10055
+"3605556561",2021,"Monroe","Parma town",164000,6239
+"3605557144",2021,"Monroe","Penfield town",226000,8797
+"3605557221",2021,"Monroe","Perinton town",230800,6491
+"3605558365",2021,"Monroe","Pittsford town",293400,8019
+"3605561808",2021,"Monroe","Riga town",173600,11193
+"3605563000",2021,"Monroe","Rochester city",93100,1696
+"3605564144",2021,"Monroe","Rush town",201600,17149
+"3605572455",2021,"Monroe","Sweden town",136700,7571
+"3605578971",2021,"Monroe","Webster town",203400,7294
+"3605581402",2021,"Monroe","Wheatland town",143600,8932
+"3606908378",2021,"Ontario","Bristol town",164100,11470
+"3606912100",2021,"Ontario","Canadice town",159200,12423
+"3606912144",2021,"Ontario","Canandaigua city",186300,8407
+"3606912155",2021,"Ontario","Canandaigua town",262800,24746
+"3606921699",2021,"Ontario","East Bloomfield town",174000,13107
+"3606925406",2021,"Ontario","Farmington town",171400,5989
+"3606928640",2021,"Ontario","Geneva city",106100,9963
+"3606928651",2021,"Ontario","Geneva town",173500,32782
+"3606929531",2021,"Ontario","Gorham town",178500,25875
+"3606935551",2021,"Ontario","Hopewell town",120200,20297
+"3606944864",2021,"Ontario","Manchester town",105600,7660
+"3606949440",2021,"Ontario","Naples town",154700,12070
+"3606957529",2021,"Ontario","Phelps town",153900,10258
+"3606961544",2021,"Ontario","Richmond town",160800,22529
+"3606966289",2021,"Ontario","Seneca town",153000,10250
+"3606968660",2021,"Ontario","South Bristol town",223200,12897
+"3606977387",2021,"Ontario","Victor town",289000,14916
+"3606979356",2021,"Ontario","West Bloomfield town",156500,20368
+"3607300000",2021,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2021,"Orleans","Albion town",84100,20728
+"3607304572",2021,"Orleans","Barre town",109900,13514
+"3607312496",2021,"Orleans","Carlton town",125100,14117
+"3607315880",2021,"Orleans","Clarendon town",117000,13858
+"3607327958",2021,"Orleans","Gaines town",85400,35908
+"3607339188",2021,"Orleans","Kendall town",125100,12621
+"3607349286",2021,"Orleans","Murray town",109400,7128
+"3607361742",2021,"Orleans","Ridgeway town",123300,22341
+"3607366751",2021,"Orleans","Shelby town",88600,5467
+"3607383448",2021,"Orleans","Yates town",104000,22397
+"3609918663",2021,"Seneca","Covert town",188000,26169
+"3609925505",2021,"Seneca","Fayette town",123500,15194
+"3609928640",2021,"Seneca","Geneva city",NA,NA
+"3609938858",2021,"Seneca","Junius town",114200,10636
+"3609943225",2021,"Seneca","Lodi town",132200,29452
+"3609955827",2021,"Seneca","Ovid town",134100,24094
+"3609963440",2021,"Seneca","Romulus town",121900,25608
+"3609966333",2021,"Seneca","Seneca Falls town",104700,6269
+"3609975902",2021,"Seneca","Tyre town",132800,36654
+"3609976958",2021,"Seneca","Varick town",205100,49963
+"3609978564",2021,"Seneca","Waterloo town",92000,4897
+"3611700000",2021,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2021,"Wayne","Arcadia town",103900,9036
+"3611711473",2021,"Wayne","Butler town",75600,15074
+"3611728013",2021,"Wayne","Galen town",74400,7975
+"3611737165",2021,"Wayne","Huron town",173400,16006
+"3611743973",2021,"Wayne","Lyons town",87000,7629
+"3611744160",2021,"Wayne","Macedon town",161600,7567
+"3611745645",2021,"Wayne","Marion town",134200,9954
+"3611755013",2021,"Wayne","Ontario town",181700,13456
+"3611756198",2021,"Wayne","Palmyra town",122700,10326
+"3611763605",2021,"Wayne","Rose town",87100,5520
+"3611765343",2021,"Wayne","Savannah town",90900,12681
+"3611768220",2021,"Wayne","Sodus town",115700,12153
+"3611778102",2021,"Wayne","Walworth town",172800,9136
+"3611782040",2021,"Wayne","Williamson town",145700,14226
+"3611782689",2021,"Wayne","Wolcott town",78700,5419
+"3612304594",2021,"Yates","Barrington town",200400,40088
+"3612306002",2021,"Yates","Benton town",170400,20563
+"3612338044",2021,"Yates","Italy town",118900,24116
+"3612338583",2021,"Yates","Jerusalem town",198200,30098
+"3612347020",2021,"Yates","Middlesex town",162300,27154
+"3612347504",2021,"Yates","Milo town",123000,10129
+"3612359597",2021,"Yates","Potter town",116400,16587
+"3612370816",2021,"Yates","Starkey town",97300,14818
+"3612375055",2021,"Yates","Torrey town",167500,12789
+"3603700474",2022,"Genesee","Alabama town",123000,11513
+"3603701165",2022,"Genesee","Alexander town",129900,21988
+"3603704715",2022,"Genesee","Batavia city",127800,7309
+"3603704726",2022,"Genesee","Batavia town",176400,20436
+"3603706057",2022,"Genesee","Bergen town",154200,15661
+"3603706266",2022,"Genesee","Bethany town",154900,10515
+"3603711572",2022,"Genesee","Byron town",146900,12457
+"3603719719",2022,"Genesee","Darien town",226700,12270
+"3603723756",2022,"Genesee","Elba town",142800,12262
+"3603742037",2022,"Genesee","Le Roy town",150300,12330
+"3603754166",2022,"Genesee","Oakfield town",140700,10207
+"3603756792",2022,"Genesee","Pavilion town",160700,15330
+"3603757078",2022,"Genesee","Pembroke town",147700,12911
+"3603770607",2022,"Genesee","Stafford town",159400,9097
+"3603775011",2022,"Genesee","Tonawanda Reservation",173000,26261
+"3605103364",2022,"Livingston","Avon town",176300,12898
+"3605111715",2022,"Livingston","Caledonia town",170100,19496
+"3605117618",2022,"Livingston","Conesus town",187500,28536
+"3605128629",2022,"Livingston","Geneseo town",217400,20621
+"3605131016",2022,"Livingston","Groveland town",196000,23351
+"3605141883",2022,"Livingston","Leicester town",156200,10183
+"3605142334",2022,"Livingston","Lima town",191000,9695
+"3605142961",2022,"Livingston","Livonia town",195800,15935
+"3605148956",2022,"Livingston","Mount Morris town",92000,6398
+"3605151869",2022,"Livingston","North Dansville town",106000,13257
+"3605154089",2022,"Livingston","Nunda town",104700,10104
+"3605155508",2022,"Livingston","Ossian town",140200,23577
+"3605159179",2022,"Livingston","Portage town",121900,30960
+"3605170101",2022,"Livingston","Sparta town",157400,15690
+"3605170475",2022,"Livingston","Springwater town",143300,17593
+"3605181006",2022,"Livingston","West Sparta town",97700,13117
+"3605184022",2022,"Livingston","York town",170000,16227
+"3605500000",2022,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2022,"Monroe","Brighton town",236500,6345
+"3605515462",2022,"Monroe","Chili town",170000,4459
+"3605515957",2022,"Monroe","Clarkson town",188000,26882
+"3605522870",2022,"Monroe","East Rochester town",125100,11232
+"3605528442",2022,"Monroe","Gates town",151100,3201
+"3605530290",2022,"Monroe","Greece town",166400,3269
+"3605531797",2022,"Monroe","Hamlin town",148500,7811
+"3605534099",2022,"Monroe","Henrietta town",191300,5994
+"3605537726",2022,"Monroe","Irondequoit town",155200,2894
+"3605546558",2022,"Monroe","Mendon town",299100,27102
+"3605554474",2022,"Monroe","Ogden town",194800,12717
+"3605556561",2022,"Monroe","Parma town",185700,11131
+"3605557144",2022,"Monroe","Penfield town",248000,9027
+"3605557221",2022,"Monroe","Perinton town",267800,5968
+"3605558365",2022,"Monroe","Pittsford town",336300,13840
+"3605561808",2022,"Monroe","Riga town",195800,15062
+"3605563000",2022,"Monroe","Rochester city",111400,2514
+"3605564144",2022,"Monroe","Rush town",238000,16919
+"3605572455",2022,"Monroe","Sweden town",157400,9473
+"3605578971",2022,"Monroe","Webster town",233500,6860
+"3605581402",2022,"Monroe","Wheatland town",164100,6509
+"3606908378",2022,"Ontario","Bristol town",187400,12638
+"3606912100",2022,"Ontario","Canadice town",170400,18388
+"3606912144",2022,"Ontario","Canandaigua city",212600,11572
+"3606912155",2022,"Ontario","Canandaigua town",296300,19204
+"3606921699",2022,"Ontario","East Bloomfield town",185600,17861
+"3606925406",2022,"Ontario","Farmington town",200400,14506
+"3606928640",2022,"Ontario","Geneva city",123100,9420
+"3606928651",2022,"Ontario","Geneva town",197600,18983
+"3606929531",2022,"Ontario","Gorham town",215700,23330
+"3606935551",2022,"Ontario","Hopewell town",149500,25898
+"3606944864",2022,"Ontario","Manchester town",122300,7918
+"3606949440",2022,"Ontario","Naples town",155200,8910
+"3606957529",2022,"Ontario","Phelps town",152000,14122
+"3606961544",2022,"Ontario","Richmond town",187800,43614
+"3606966289",2022,"Ontario","Seneca town",169400,9766
+"3606968660",2022,"Ontario","South Bristol town",247600,18290
+"3606977387",2022,"Ontario","Victor town",342200,16893
+"3606979356",2022,"Ontario","West Bloomfield town",179200,29607
+"3607300000",2022,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2022,"Orleans","Albion town",100800,29783
+"3607304572",2022,"Orleans","Barre town",126300,16950
+"3607312496",2022,"Orleans","Carlton town",152400,13684
+"3607315880",2022,"Orleans","Clarendon town",146400,23482
+"3607327958",2022,"Orleans","Gaines town",79200,39716
+"3607339188",2022,"Orleans","Kendall town",160400,16324
+"3607349286",2022,"Orleans","Murray town",121000,5067
+"3607361742",2022,"Orleans","Ridgeway town",151900,25091
+"3607366751",2022,"Orleans","Shelby town",104000,10210
+"3607383448",2022,"Orleans","Yates town",120100,23694
+"3609918663",2022,"Seneca","Covert town",208300,34670
+"3609925505",2022,"Seneca","Fayette town",149400,20970
+"3609928640",2022,"Seneca","Geneva city",NA,NA
+"3609938858",2022,"Seneca","Junius town",137200,19170
+"3609943225",2022,"Seneca","Lodi town",157600,24871
+"3609955827",2022,"Seneca","Ovid town",148300,24455
+"3609963440",2022,"Seneca","Romulus town",155300,37798
+"3609966333",2022,"Seneca","Seneca Falls town",121300,6539
+"3609975902",2022,"Seneca","Tyre town",155500,31688
+"3609976958",2022,"Seneca","Varick town",243800,51292
+"3609978564",2022,"Seneca","Waterloo town",109300,8272
+"3611700000",2022,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2022,"Wayne","Arcadia town",120000,7787
+"3611711473",2022,"Wayne","Butler town",84700,12288
+"3611728013",2022,"Wayne","Galen town",84500,10673
+"3611737165",2022,"Wayne","Huron town",190000,27678
+"3611743973",2022,"Wayne","Lyons town",95700,8384
+"3611744160",2022,"Wayne","Macedon town",181600,12123
+"3611745645",2022,"Wayne","Marion town",159800,8899
+"3611755013",2022,"Wayne","Ontario town",206300,16781
+"3611756198",2022,"Wayne","Palmyra town",131600,11649
+"3611763605",2022,"Wayne","Rose town",103300,15030
+"3611765343",2022,"Wayne","Savannah town",104200,14642
+"3611768220",2022,"Wayne","Sodus town",131600,15499
+"3611778102",2022,"Wayne","Walworth town",194300,10608
+"3611782040",2022,"Wayne","Williamson town",168800,15624
+"3611782689",2022,"Wayne","Wolcott town",86800,9277
+"3612304594",2022,"Yates","Barrington town",202300,72455
+"3612306002",2022,"Yates","Benton town",215600,66545
+"3612338044",2022,"Yates","Italy town",124200,24134
+"3612338583",2022,"Yates","Jerusalem town",247000,40139
+"3612347020",2022,"Yates","Middlesex town",188300,78304
+"3612347504",2022,"Yates","Milo town",141500,12047
+"3612359597",2022,"Yates","Potter town",135800,23969
+"3612370816",2022,"Yates","Starkey town",113000,14930
+"3612375055",2022,"Yates","Torrey town",176100,21417
+"3603700474",2023,"Genesee","Alabama town",135100,16306
+"3603701165",2023,"Genesee","Alexander town",144600,29571
+"3603704715",2023,"Genesee","Batavia city",139700,8309
+"3603704726",2023,"Genesee","Batavia town",180600,13113
+"3603706057",2023,"Genesee","Bergen town",165700,18741
+"3603706266",2023,"Genesee","Bethany town",162500,15712
+"3603711572",2023,"Genesee","Byron town",148100,14498
+"3603719719",2023,"Genesee","Darien town",222500,14263
+"3603723756",2023,"Genesee","Elba town",140100,27118
+"3603742037",2023,"Genesee","Le Roy town",158400,17847
+"3603754166",2023,"Genesee","Oakfield town",139900,12703
+"3603756792",2023,"Genesee","Pavilion town",169200,20554
+"3603757078",2023,"Genesee","Pembroke town",180600,22074
+"3603770607",2023,"Genesee","Stafford town",171900,13704
+"3603775011",2023,"Genesee","Tonawanda Reservation",174200,45693
+"3605103364",2023,"Livingston","Avon town",187300,14703
+"3605111715",2023,"Livingston","Caledonia town",181100,16948
+"3605117618",2023,"Livingston","Conesus town",213100,26418
+"3605128629",2023,"Livingston","Geneseo town",222500,17198
+"3605131016",2023,"Livingston","Groveland town",223300,28516
+"3605141883",2023,"Livingston","Leicester town",152600,10160
+"3605142334",2023,"Livingston","Lima town",209500,12855
+"3605142961",2023,"Livingston","Livonia town",201600,16011
+"3605148956",2023,"Livingston","Mount Morris town",95700,11386
+"3605151869",2023,"Livingston","North Dansville town",104900,13655
+"3605154089",2023,"Livingston","Nunda town",111700,14206
+"3605155508",2023,"Livingston","Ossian town",147200,34880
+"3605159179",2023,"Livingston","Portage town",123000,34491
+"3605170101",2023,"Livingston","Sparta town",173600,19219
+"3605170475",2023,"Livingston","Springwater town",148900,24290
+"3605181006",2023,"Livingston","West Sparta town",1e+05,27006
+"3605184022",2023,"Livingston","York town",174400,14928
+"3605500000",2023,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2023,"Monroe","Brighton town",259300,11105
+"3605515462",2023,"Monroe","Chili town",186000,6329
+"3605515957",2023,"Monroe","Clarkson town",192300,11325
+"3605522870",2023,"Monroe","East Rochester town",137400,15068
+"3605528442",2023,"Monroe","Gates town",161500,3040
+"3605530290",2023,"Monroe","Greece town",177000,3868
+"3605531797",2023,"Monroe","Hamlin town",154200,13941
+"3605534099",2023,"Monroe","Henrietta town",205300,8043
+"3605537726",2023,"Monroe","Irondequoit town",169000,2490
+"3605546558",2023,"Monroe","Mendon town",342100,35249
+"3605554474",2023,"Monroe","Ogden town",214900,11973
+"3605556561",2023,"Monroe","Parma town",199300,10680
+"3605557144",2023,"Monroe","Penfield town",266100,11164
+"3605557221",2023,"Monroe","Perinton town",282500,6654
+"3605558365",2023,"Monroe","Pittsford town",365400,12474
+"3605561808",2023,"Monroe","Riga town",203100,14550
+"3605563000",2023,"Monroe","Rochester city",120600,3738
+"3605564144",2023,"Monroe","Rush town",246500,17411
+"3605572455",2023,"Monroe","Sweden town",170300,11442
+"3605578971",2023,"Monroe","Webster town",247600,6729
+"3605581402",2023,"Monroe","Wheatland town",177700,14958
+"3606908378",2023,"Ontario","Bristol town",197300,27000
+"3606912100",2023,"Ontario","Canadice town",183100,24662
+"3606912144",2023,"Ontario","Canandaigua city",218300,10960
+"3606912155",2023,"Ontario","Canandaigua town",306400,26916
+"3606921699",2023,"Ontario","East Bloomfield town",207700,20529
+"3606925406",2023,"Ontario","Farmington town",223500,15811
+"3606928640",2023,"Ontario","Geneva city",140300,13367
+"3606928651",2023,"Ontario","Geneva town",198500,19486
+"3606929531",2023,"Ontario","Gorham town",237300,22425
+"3606935551",2023,"Ontario","Hopewell town",168400,37288
+"3606944864",2023,"Ontario","Manchester town",125400,9067
+"3606949440",2023,"Ontario","Naples town",163900,15973
+"3606957529",2023,"Ontario","Phelps town",152400,13116
+"3606961544",2023,"Ontario","Richmond town",195200,39663
+"3606966289",2023,"Ontario","Seneca town",189600,6823
+"3606968660",2023,"Ontario","South Bristol town",278100,17093
+"3606977387",2023,"Ontario","Victor town",340300,15257
+"3606979356",2023,"Ontario","West Bloomfield town",183700,43245
+"3607300000",2023,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2023,"Orleans","Albion town",105200,18700
+"3607304572",2023,"Orleans","Barre town",134400,18154
+"3607312496",2023,"Orleans","Carlton town",156800,10609
+"3607315880",2023,"Orleans","Clarendon town",157600,32458
+"3607327958",2023,"Orleans","Gaines town",111600,21001
+"3607339188",2023,"Orleans","Kendall town",164400,21845
+"3607349286",2023,"Orleans","Murray town",118600,5238
+"3607361742",2023,"Orleans","Ridgeway town",145200,18532
+"3607366751",2023,"Orleans","Shelby town",112300,19025
+"3607383448",2023,"Orleans","Yates town",137500,17134
+"3609918663",2023,"Seneca","Covert town",227400,29145
+"3609925505",2023,"Seneca","Fayette town",165100,14421
+"3609928640",2023,"Seneca","Geneva city",NA,NA
+"3609938858",2023,"Seneca","Junius town",151000,15818
+"3609943225",2023,"Seneca","Lodi town",170300,29837
+"3609955827",2023,"Seneca","Ovid town",158600,19572
+"3609963440",2023,"Seneca","Romulus town",172000,21078
+"3609966333",2023,"Seneca","Seneca Falls town",123900,7651
+"3609975902",2023,"Seneca","Tyre town",152300,39784
+"3609976958",2023,"Seneca","Varick town",261700,39163
+"3609978564",2023,"Seneca","Waterloo town",113900,8312
+"3611700000",2023,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2023,"Wayne","Arcadia town",129500,12611
+"3611711473",2023,"Wayne","Butler town",85400,12407
+"3611728013",2023,"Wayne","Galen town",91800,12402
+"3611737165",2023,"Wayne","Huron town",217100,19350
+"3611743973",2023,"Wayne","Lyons town",104000,16161
+"3611744160",2023,"Wayne","Macedon town",196900,13940
+"3611745645",2023,"Wayne","Marion town",170500,18658
+"3611755013",2023,"Wayne","Ontario town",228700,16524
+"3611756198",2023,"Wayne","Palmyra town",143400,12034
+"3611763605",2023,"Wayne","Rose town",107400,23270
+"3611765343",2023,"Wayne","Savannah town",105600,16721
+"3611768220",2023,"Wayne","Sodus town",151400,17533
+"3611778102",2023,"Wayne","Walworth town",215200,11173
+"3611782040",2023,"Wayne","Williamson town",174300,16280
+"3611782689",2023,"Wayne","Wolcott town",85400,9084
+"3612304594",2023,"Yates","Barrington town",221000,42247
+"3612306002",2023,"Yates","Benton town",251300,81170
+"3612338044",2023,"Yates","Italy town",134700,23229
+"3612338583",2023,"Yates","Jerusalem town",325900,50808
+"3612347020",2023,"Yates","Middlesex town",226100,71929
+"3612347504",2023,"Yates","Milo town",159600,19283
+"3612359597",2023,"Yates","Potter town",138300,23069
+"3612370816",2023,"Yates","Starkey town",122000,23281
+"3612375055",2023,"Yates","Torrey town",188700,27214
+"3603700474",2024,"Genesee","Alabama town",145600,13819
+"3603701165",2024,"Genesee","Alexander town",163100,16809
+"3603704715",2024,"Genesee","Batavia city",148900,7141
+"3603704726",2024,"Genesee","Batavia town",191000,10546
+"3603706057",2024,"Genesee","Bergen town",170000,20605
+"3603706266",2024,"Genesee","Bethany town",170600,13979
+"3603711572",2024,"Genesee","Byron town",168000,9901
+"3603719719",2024,"Genesee","Darien town",211400,21092
+"3603723756",2024,"Genesee","Elba town",149700,17138
+"3603742037",2024,"Genesee","Le Roy town",177500,13696
+"3603754166",2024,"Genesee","Oakfield town",163600,15277
+"3603756792",2024,"Genesee","Pavilion town",168700,17487
+"3603757078",2024,"Genesee","Pembroke town",202800,21868
+"3603770607",2024,"Genesee","Stafford town",182500,16510
+"3603775011",2024,"Genesee","Tonawanda Reservation",171900,63775
+"3605103364",2024,"Livingston","Avon town",183900,16925
+"3605111715",2024,"Livingston","Caledonia town",189000,24340
+"3605117618",2024,"Livingston","Conesus town",213600,29823
+"3605128629",2024,"Livingston","Geneseo town",242100,15001
+"3605131016",2024,"Livingston","Groveland town",241300,28254
+"3605141883",2024,"Livingston","Leicester town",162100,10160
+"3605142334",2024,"Livingston","Lima town",220200,19572
+"3605142961",2024,"Livingston","Livonia town",220700,16709
+"3605148956",2024,"Livingston","Mount Morris town",101200,13889
+"3605151869",2024,"Livingston","North Dansville town",116500,8612
+"3605154089",2024,"Livingston","Nunda town",123900,38933
+"3605155508",2024,"Livingston","Ossian town",172700,42958
+"3605159179",2024,"Livingston","Portage town",145600,42601
+"3605170101",2024,"Livingston","Sparta town",168800,27189
+"3605170475",2024,"Livingston","Springwater town",147500,17445
+"3605181006",2024,"Livingston","West Sparta town",99400,19820
+"3605184022",2024,"Livingston","York town",167000,13541
+"3605500000",2024,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2024,"Monroe","Brighton town",282100,10944
+"3605515462",2024,"Monroe","Chili town",206000,8435
+"3605515957",2024,"Monroe","Clarkson town",207000,24073
+"3605522870",2024,"Monroe","East Rochester town",143500,15509
+"3605528442",2024,"Monroe","Gates town",170500,2795
+"3605530290",2024,"Monroe","Greece town",190300,4477
+"3605531797",2024,"Monroe","Hamlin town",166200,8510
+"3605534099",2024,"Monroe","Henrietta town",223700,7383
+"3605537726",2024,"Monroe","Irondequoit town",182500,3423
+"3605546558",2024,"Monroe","Mendon town",388700,37117
+"3605554474",2024,"Monroe","Ogden town",235200,12570
+"3605556561",2024,"Monroe","Parma town",220000,14889
+"3605557144",2024,"Monroe","Penfield town",291500,11887
+"3605557221",2024,"Monroe","Perinton town",310200,9097
+"3605558365",2024,"Monroe","Pittsford town",389100,13589
+"3605561808",2024,"Monroe","Riga town",227600,12369
+"3605563000",2024,"Monroe","Rochester city",139600,4773
+"3605564144",2024,"Monroe","Rush town",264600,42880
+"3605572455",2024,"Monroe","Sweden town",186800,18218
+"3605578971",2024,"Monroe","Webster town",269000,11029
+"3605581402",2024,"Monroe","Wheatland town",183100,15234
+"3606908378",2024,"Ontario","Bristol town",228600,51615
+"3606912100",2024,"Ontario","Canadice town",186800,23254
+"3606912144",2024,"Ontario","Canandaigua city",229100,10294
+"3606912155",2024,"Ontario","Canandaigua town",345500,24685
+"3606921699",2024,"Ontario","East Bloomfield town",232300,18289
+"3606925406",2024,"Ontario","Farmington town",237000,12887
+"3606928640",2024,"Ontario","Geneva city",165500,11550
+"3606928651",2024,"Ontario","Geneva town",232600,9427
+"3606929531",2024,"Ontario","Gorham town",263300,27206
+"3606935551",2024,"Ontario","Hopewell town",171800,33206
+"3606944864",2024,"Ontario","Manchester town",135500,14844
+"3606949440",2024,"Ontario","Naples town",171500,11596
+"3606957529",2024,"Ontario","Phelps town",166300,10287
+"3606961544",2024,"Ontario","Richmond town",215400,30639
+"3606966289",2024,"Ontario","Seneca town",192700,8849
+"3606968660",2024,"Ontario","South Bristol town",309600,31154
+"3606977387",2024,"Ontario","Victor town",359000,18943
+"3606979356",2024,"Ontario","West Bloomfield town",170500,43434
+"3607300000",2024,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2024,"Orleans","Albion town",102400,34984
+"3607304572",2024,"Orleans","Barre town",135900,27880
+"3607312496",2024,"Orleans","Carlton town",158800,12635
+"3607315880",2024,"Orleans","Clarendon town",179700,19842
+"3607327958",2024,"Orleans","Gaines town",125800,19238
+"3607339188",2024,"Orleans","Kendall town",191200,27745
+"3607349286",2024,"Orleans","Murray town",123800,14002
+"3607361742",2024,"Orleans","Ridgeway town",149900,14637
+"3607366751",2024,"Orleans","Shelby town",136000,29314
+"3607383448",2024,"Orleans","Yates town",141000,21534
+"3609918663",2024,"Seneca","Covert town",227200,48257
+"3609925505",2024,"Seneca","Fayette town",173900,28616
+"3609928640",2024,"Seneca","Geneva city",NA,NA
+"3609938858",2024,"Seneca","Junius town",160400,12991
+"3609943225",2024,"Seneca","Lodi town",182600,38745
+"3609955827",2024,"Seneca","Ovid town",175700,22215
+"3609963440",2024,"Seneca","Romulus town",178800,46694
+"3609966333",2024,"Seneca","Seneca Falls town",137100,20485
+"3609975902",2024,"Seneca","Tyre town",161900,35572
+"3609976958",2024,"Seneca","Varick town",267200,40820
+"3609978564",2024,"Seneca","Waterloo town",117500,7999
+"3611700000",2024,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2024,"Wayne","Arcadia town",148400,11717
+"3611711473",2024,"Wayne","Butler town",89900,17427
+"3611728013",2024,"Wayne","Galen town",95400,15183
+"3611737165",2024,"Wayne","Huron town",233000,20733
+"3611743973",2024,"Wayne","Lyons town",98400,12408
+"3611744160",2024,"Wayne","Macedon town",209800,16094
+"3611745645",2024,"Wayne","Marion town",180300,27315
+"3611755013",2024,"Wayne","Ontario town",233900,14636
+"3611756198",2024,"Wayne","Palmyra town",152200,11753
+"3611763605",2024,"Wayne","Rose town",133800,28612
+"3611765343",2024,"Wayne","Savannah town",101900,21914
+"3611768220",2024,"Wayne","Sodus town",152500,18051
+"3611778102",2024,"Wayne","Walworth town",232000,12729
+"3611782040",2024,"Wayne","Williamson town",192700,17660
+"3611782689",2024,"Wayne","Wolcott town",87500,15502
+"3612304594",2024,"Yates","Barrington town",255800,31510
+"3612306002",2024,"Yates","Benton town",258600,51187
+"3612338044",2024,"Yates","Italy town",153100,23891
+"3612338583",2024,"Yates","Jerusalem town",320900,59402
+"3612347020",2024,"Yates","Middlesex town",208100,62003
+"3612347504",2024,"Yates","Milo town",165200,15595
+"3612359597",2024,"Yates","Potter town",130300,23059
+"3612370816",2024,"Yates","Starkey town",145700,17389
+"3612375055",2024,"Yates","Torrey town",206000,37646

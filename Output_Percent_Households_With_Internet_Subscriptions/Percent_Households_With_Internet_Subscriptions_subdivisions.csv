@@ -1,0 +1,953 @@
+"GEOID","year","County","Geography","estimate","moe"
+"3603700474",2017,"Genesee","Alabama town",72.8,6
+"3603701165",2017,"Genesee","Alexander town",74.1,5.9
+"3603704715",2017,"Genesee","Batavia city",72.3,3.3
+"3603704726",2017,"Genesee","Batavia town",75.7,7.5
+"3603706057",2017,"Genesee","Bergen town",82.1,6.6
+"3603706266",2017,"Genesee","Bethany town",70.8,6.4
+"3603711572",2017,"Genesee","Byron town",76.7,6.1
+"3603719719",2017,"Genesee","Darien town",82.6,5.5
+"3603723756",2017,"Genesee","Elba town",80,5.8
+"3603742037",2017,"Genesee","Le Roy town",76.3,4.5
+"3603754166",2017,"Genesee","Oakfield town",82.7,4.1
+"3603756792",2017,"Genesee","Pavilion town",75.8,5.6
+"3603757078",2017,"Genesee","Pembroke town",79.6,6.1
+"3603770607",2017,"Genesee","Stafford town",77.3,5
+"3603775011",2017,"Genesee","Tonawanda Reservation",66.4,10
+"3605103364",2017,"Livingston","Avon town",84.3,4.6
+"3605111715",2017,"Livingston","Caledonia town",80.3,4.6
+"3605117618",2017,"Livingston","Conesus town",80.2,6
+"3605128629",2017,"Livingston","Geneseo town",83.5,5.1
+"3605131016",2017,"Livingston","Groveland town",77.3,6.5
+"3605141883",2017,"Livingston","Leicester town",72.9,6.5
+"3605142334",2017,"Livingston","Lima town",78.1,4.8
+"3605142961",2017,"Livingston","Livonia town",90.7,3.9
+"3605148956",2017,"Livingston","Mount Morris town",69.1,8.3
+"3605151869",2017,"Livingston","North Dansville town",71.4,6.7
+"3605154089",2017,"Livingston","Nunda town",71.6,6.3
+"3605155508",2017,"Livingston","Ossian town",77.7,7.6
+"3605159179",2017,"Livingston","Portage town",64.7,9
+"3605170101",2017,"Livingston","Sparta town",77.9,4.4
+"3605170475",2017,"Livingston","Springwater town",80.6,4.9
+"3605181006",2017,"Livingston","West Sparta town",70.6,7.2
+"3605184022",2017,"Livingston","York town",83,5.9
+"3605500000",2017,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2017,"Monroe","Brighton town",84.4,2.1
+"3605515462",2017,"Monroe","Chili town",87.8,2
+"3605515957",2017,"Monroe","Clarkson town",82.9,5.8
+"3605522870",2017,"Monroe","East Rochester town",76.7,4.7
+"3605528442",2017,"Monroe","Gates town",82,2
+"3605530290",2017,"Monroe","Greece town",81.6,1.3
+"3605531797",2017,"Monroe","Hamlin town",86.3,3.8
+"3605534099",2017,"Monroe","Henrietta town",85.4,2.3
+"3605537726",2017,"Monroe","Irondequoit town",77.4,1.6
+"3605546558",2017,"Monroe","Mendon town",92.4,2.7
+"3605554474",2017,"Monroe","Ogden town",88.8,2
+"3605556561",2017,"Monroe","Parma town",84.3,2.9
+"3605557144",2017,"Monroe","Penfield town",85.8,2
+"3605557221",2017,"Monroe","Perinton town",87.7,1.6
+"3605558365",2017,"Monroe","Pittsford town",90.5,1.6
+"3605561808",2017,"Monroe","Riga town",88.9,3.7
+"3605563000",2017,"Monroe","Rochester city",69,0.9
+"3605564144",2017,"Monroe","Rush town",88.2,5
+"3605572455",2017,"Monroe","Sweden town",83.5,3
+"3605578971",2017,"Monroe","Webster town",85.5,1.8
+"3605581402",2017,"Monroe","Wheatland town",89.6,2.9
+"3606908378",2017,"Ontario","Bristol town",85.1,4.2
+"3606912100",2017,"Ontario","Canadice town",80.3,5.4
+"3606912144",2017,"Ontario","Canandaigua city",78.5,3.3
+"3606912155",2017,"Ontario","Canandaigua town",81.1,4.1
+"3606921699",2017,"Ontario","East Bloomfield town",82.5,5.4
+"3606925406",2017,"Ontario","Farmington town",86.3,3.3
+"3606928640",2017,"Ontario","Geneva city",72.5,3.6
+"3606928651",2017,"Ontario","Geneva town",73.5,6.4
+"3606929531",2017,"Ontario","Gorham town",82.4,5.1
+"3606935551",2017,"Ontario","Hopewell town",79.4,6.6
+"3606944864",2017,"Ontario","Manchester town",74.7,3.6
+"3606949440",2017,"Ontario","Naples town",83,4.1
+"3606957529",2017,"Ontario","Phelps town",80.2,5
+"3606961544",2017,"Ontario","Richmond town",93.6,4
+"3606966289",2017,"Ontario","Seneca town",79.1,5.7
+"3606968660",2017,"Ontario","South Bristol town",91.2,3.6
+"3606977387",2017,"Ontario","Victor town",87.2,3.2
+"3606979356",2017,"Ontario","West Bloomfield town",83.9,5.2
+"3607300000",2017,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2017,"Orleans","Albion town",70.5,7.2
+"3607304572",2017,"Orleans","Barre town",72.9,5.5
+"3607312496",2017,"Orleans","Carlton town",82.5,6.1
+"3607315880",2017,"Orleans","Clarendon town",81.9,6.4
+"3607327958",2017,"Orleans","Gaines town",74.2,9.5
+"3607339188",2017,"Orleans","Kendall town",81.3,4.8
+"3607349286",2017,"Orleans","Murray town",73.7,4.4
+"3607361742",2017,"Orleans","Ridgeway town",76.5,4.6
+"3607366751",2017,"Orleans","Shelby town",72.6,5
+"3607383448",2017,"Orleans","Yates town",74.1,5
+"3609918663",2017,"Seneca","Covert town",76.1,5.6
+"3609925505",2017,"Seneca","Fayette town",71.5,6.2
+"3609928640",2017,"Seneca","Geneva city",NA,NA
+"3609938858",2017,"Seneca","Junius town",69.8,5.8
+"3609943225",2017,"Seneca","Lodi town",69.7,6.5
+"3609955827",2017,"Seneca","Ovid town",68.1,5.2
+"3609963440",2017,"Seneca","Romulus town",74.1,6.9
+"3609966333",2017,"Seneca","Seneca Falls town",83.1,3.1
+"3609975902",2017,"Seneca","Tyre town",65.9,7.5
+"3609976958",2017,"Seneca","Varick town",73.9,6.5
+"3609978564",2017,"Seneca","Waterloo town",78.1,4
+"3611700000",2017,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2017,"Wayne","Arcadia town",70.3,4
+"3611711473",2017,"Wayne","Butler town",61.4,6.7
+"3611728013",2017,"Wayne","Galen town",65.9,6.4
+"3611737165",2017,"Wayne","Huron town",69.6,8.4
+"3611743973",2017,"Wayne","Lyons town",70.5,6.4
+"3611744160",2017,"Wayne","Macedon town",77.1,3.8
+"3611745645",2017,"Wayne","Marion town",71.8,6.7
+"3611755013",2017,"Wayne","Ontario town",79.7,4.8
+"3611756198",2017,"Wayne","Palmyra town",70.6,4.5
+"3611763605",2017,"Wayne","Rose town",69.2,6.8
+"3611765343",2017,"Wayne","Savannah town",67.2,5.7
+"3611768220",2017,"Wayne","Sodus town",73.4,4.5
+"3611778102",2017,"Wayne","Walworth town",85.7,3.1
+"3611782040",2017,"Wayne","Williamson town",71.1,5.3
+"3611782689",2017,"Wayne","Wolcott town",77.5,4.5
+"3612304594",2017,"Yates","Barrington town",59.7,6.7
+"3612306002",2017,"Yates","Benton town",66.3,6.3
+"3612338044",2017,"Yates","Italy town",73.1,7.7
+"3612338583",2017,"Yates","Jerusalem town",75.6,5.9
+"3612347020",2017,"Yates","Middlesex town",80.2,6.4
+"3612347504",2017,"Yates","Milo town",70.3,5.4
+"3612359597",2017,"Yates","Potter town",70.4,6.2
+"3612370816",2017,"Yates","Starkey town",70.2,8
+"3612375055",2017,"Yates","Torrey town",68,6.8
+"3603700474",2018,"Genesee","Alabama town",75.5,6
+"3603701165",2018,"Genesee","Alexander town",76,5.7
+"3603704715",2018,"Genesee","Batavia city",75.5,3.1
+"3603704726",2018,"Genesee","Batavia town",81,5.7
+"3603706057",2018,"Genesee","Bergen town",83.1,7.2
+"3603706266",2018,"Genesee","Bethany town",72.7,6.2
+"3603711572",2018,"Genesee","Byron town",82.5,6.8
+"3603719719",2018,"Genesee","Darien town",84.9,6.9
+"3603723756",2018,"Genesee","Elba town",84.3,4.3
+"3603742037",2018,"Genesee","Le Roy town",80.5,4.2
+"3603754166",2018,"Genesee","Oakfield town",82.2,4.5
+"3603756792",2018,"Genesee","Pavilion town",76.3,5.9
+"3603757078",2018,"Genesee","Pembroke town",81.8,6.5
+"3603770607",2018,"Genesee","Stafford town",79.7,6.3
+"3603775011",2018,"Genesee","Tonawanda Reservation",61.8,11.6
+"3605103364",2018,"Livingston","Avon town",85.5,4
+"3605111715",2018,"Livingston","Caledonia town",80.8,4.3
+"3605117618",2018,"Livingston","Conesus town",82.9,5.8
+"3605128629",2018,"Livingston","Geneseo town",86,4.3
+"3605131016",2018,"Livingston","Groveland town",79.1,5.7
+"3605141883",2018,"Livingston","Leicester town",74.9,7.5
+"3605142334",2018,"Livingston","Lima town",82.5,4.4
+"3605142961",2018,"Livingston","Livonia town",90.3,3.2
+"3605148956",2018,"Livingston","Mount Morris town",69.6,7.5
+"3605151869",2018,"Livingston","North Dansville town",77.3,5.5
+"3605154089",2018,"Livingston","Nunda town",76,6.1
+"3605155508",2018,"Livingston","Ossian town",85.6,5.3
+"3605159179",2018,"Livingston","Portage town",67.2,7.5
+"3605170101",2018,"Livingston","Sparta town",79.5,5.5
+"3605170475",2018,"Livingston","Springwater town",82.9,4.8
+"3605181006",2018,"Livingston","West Sparta town",73.5,7.4
+"3605184022",2018,"Livingston","York town",82.4,5.6
+"3605500000",2018,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2018,"Monroe","Brighton town",86,1.9
+"3605515462",2018,"Monroe","Chili town",88.6,1.7
+"3605515957",2018,"Monroe","Clarkson town",85.4,4.8
+"3605522870",2018,"Monroe","East Rochester town",76.6,5
+"3605528442",2018,"Monroe","Gates town",83.5,1.9
+"3605530290",2018,"Monroe","Greece town",83.3,1.4
+"3605531797",2018,"Monroe","Hamlin town",87.4,3.8
+"3605534099",2018,"Monroe","Henrietta town",85.8,1.8
+"3605537726",2018,"Monroe","Irondequoit town",80.1,1.8
+"3605546558",2018,"Monroe","Mendon town",92.3,2.9
+"3605554474",2018,"Monroe","Ogden town",89.5,2.1
+"3605556561",2018,"Monroe","Parma town",85.8,3.5
+"3605557144",2018,"Monroe","Penfield town",87.2,1.7
+"3605557221",2018,"Monroe","Perinton town",89.5,1.5
+"3605558365",2018,"Monroe","Pittsford town",92,1.4
+"3605561808",2018,"Monroe","Riga town",89.4,3
+"3605563000",2018,"Monroe","Rochester city",73.1,1
+"3605564144",2018,"Monroe","Rush town",89.2,4.6
+"3605572455",2018,"Monroe","Sweden town",85.1,2.8
+"3605578971",2018,"Monroe","Webster town",87.6,1.7
+"3605581402",2018,"Monroe","Wheatland town",91.1,3.2
+"3606908378",2018,"Ontario","Bristol town",89.4,3.5
+"3606912100",2018,"Ontario","Canadice town",80,5.5
+"3606912144",2018,"Ontario","Canandaigua city",78.4,3.4
+"3606912155",2018,"Ontario","Canandaigua town",85.5,3.6
+"3606921699",2018,"Ontario","East Bloomfield town",83.4,5
+"3606925406",2018,"Ontario","Farmington town",88.4,3.6
+"3606928640",2018,"Ontario","Geneva city",77.3,3.7
+"3606928651",2018,"Ontario","Geneva town",79,6.6
+"3606929531",2018,"Ontario","Gorham town",85.9,4.2
+"3606935551",2018,"Ontario","Hopewell town",82.5,6.4
+"3606944864",2018,"Ontario","Manchester town",77.7,3.4
+"3606949440",2018,"Ontario","Naples town",86.9,4.2
+"3606957529",2018,"Ontario","Phelps town",80.2,4.4
+"3606961544",2018,"Ontario","Richmond town",94.8,3.8
+"3606966289",2018,"Ontario","Seneca town",84.1,4.9
+"3606968660",2018,"Ontario","South Bristol town",92.9,3.1
+"3606977387",2018,"Ontario","Victor town",85.9,3.4
+"3606979356",2018,"Ontario","West Bloomfield town",86.3,4.4
+"3607300000",2018,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2018,"Orleans","Albion town",75.7,7.1
+"3607304572",2018,"Orleans","Barre town",76.7,4.5
+"3607312496",2018,"Orleans","Carlton town",87.6,4.9
+"3607315880",2018,"Orleans","Clarendon town",80.2,6.9
+"3607327958",2018,"Orleans","Gaines town",77.8,9.6
+"3607339188",2018,"Orleans","Kendall town",83.9,5.1
+"3607349286",2018,"Orleans","Murray town",76.8,5.1
+"3607361742",2018,"Orleans","Ridgeway town",82,4.6
+"3607366751",2018,"Orleans","Shelby town",74.9,4.6
+"3607383448",2018,"Orleans","Yates town",73.3,5.9
+"3609918663",2018,"Seneca","Covert town",77.3,5.1
+"3609925505",2018,"Seneca","Fayette town",74.9,5.5
+"3609928640",2018,"Seneca","Geneva city",NA,NA
+"3609938858",2018,"Seneca","Junius town",72.7,6.3
+"3609943225",2018,"Seneca","Lodi town",70,5.6
+"3609955827",2018,"Seneca","Ovid town",67.8,5.6
+"3609963440",2018,"Seneca","Romulus town",74.6,6.3
+"3609966333",2018,"Seneca","Seneca Falls town",84.7,3.2
+"3609975902",2018,"Seneca","Tyre town",63.4,7.1
+"3609976958",2018,"Seneca","Varick town",71,5.2
+"3609978564",2018,"Seneca","Waterloo town",80.7,4.8
+"3611700000",2018,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2018,"Wayne","Arcadia town",73.2,4.1
+"3611711473",2018,"Wayne","Butler town",62.3,7.6
+"3611728013",2018,"Wayne","Galen town",73.1,5.5
+"3611737165",2018,"Wayne","Huron town",73.5,6.9
+"3611743973",2018,"Wayne","Lyons town",76.4,5.9
+"3611744160",2018,"Wayne","Macedon town",80.3,3.5
+"3611745645",2018,"Wayne","Marion town",74.9,5.6
+"3611755013",2018,"Wayne","Ontario town",81.5,4.8
+"3611756198",2018,"Wayne","Palmyra town",73.8,4.5
+"3611763605",2018,"Wayne","Rose town",72,8.6
+"3611765343",2018,"Wayne","Savannah town",74.3,7.1
+"3611768220",2018,"Wayne","Sodus town",77.9,4.6
+"3611778102",2018,"Wayne","Walworth town",89.6,3.2
+"3611782040",2018,"Wayne","Williamson town",75.3,4.9
+"3611782689",2018,"Wayne","Wolcott town",76.5,5.3
+"3612304594",2018,"Yates","Barrington town",63.9,7.7
+"3612306002",2018,"Yates","Benton town",66.9,6
+"3612338044",2018,"Yates","Italy town",76.1,7.5
+"3612338583",2018,"Yates","Jerusalem town",74.1,7.9
+"3612347020",2018,"Yates","Middlesex town",79.3,6.4
+"3612347504",2018,"Yates","Milo town",72.3,5.6
+"3612359597",2018,"Yates","Potter town",70.8,7.1
+"3612370816",2018,"Yates","Starkey town",76.7,6.8
+"3612375055",2018,"Yates","Torrey town",68.8,6.3
+"3603700474",2019,"Genesee","Alabama town",80.8,5
+"3603701165",2019,"Genesee","Alexander town",81.3,5.3
+"3603704715",2019,"Genesee","Batavia city",76.8,3.5
+"3603704726",2019,"Genesee","Batavia town",82.5,5.2
+"3603706057",2019,"Genesee","Bergen town",82.3,6.4
+"3603706266",2019,"Genesee","Bethany town",77.7,5.4
+"3603711572",2019,"Genesee","Byron town",87.9,4.9
+"3603719719",2019,"Genesee","Darien town",88,6.2
+"3603723756",2019,"Genesee","Elba town",86.6,3.8
+"3603742037",2019,"Genesee","Le Roy town",82.5,4.2
+"3603754166",2019,"Genesee","Oakfield town",82.7,4.6
+"3603756792",2019,"Genesee","Pavilion town",76.1,6.3
+"3603757078",2019,"Genesee","Pembroke town",84.3,5.6
+"3603770607",2019,"Genesee","Stafford town",82.2,5.2
+"3603775011",2019,"Genesee","Tonawanda Reservation",60.1,12.3
+"3605103364",2019,"Livingston","Avon town",89,3.3
+"3605111715",2019,"Livingston","Caledonia town",82.3,5.2
+"3605117618",2019,"Livingston","Conesus town",85.4,4.4
+"3605128629",2019,"Livingston","Geneseo town",85.6,3.8
+"3605131016",2019,"Livingston","Groveland town",80.8,7.6
+"3605141883",2019,"Livingston","Leicester town",79.3,6.2
+"3605142334",2019,"Livingston","Lima town",85.9,4.1
+"3605142961",2019,"Livingston","Livonia town",91.4,3.2
+"3605148956",2019,"Livingston","Mount Morris town",77.9,6.7
+"3605151869",2019,"Livingston","North Dansville town",81.5,5.2
+"3605154089",2019,"Livingston","Nunda town",75.9,6.5
+"3605155508",2019,"Livingston","Ossian town",86.2,4.7
+"3605159179",2019,"Livingston","Portage town",73.5,7.4
+"3605170101",2019,"Livingston","Sparta town",84.9,4.4
+"3605170475",2019,"Livingston","Springwater town",84,5
+"3605181006",2019,"Livingston","West Sparta town",78.3,5.7
+"3605184022",2019,"Livingston","York town",83.8,6.4
+"3605500000",2019,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2019,"Monroe","Brighton town",86.5,1.7
+"3605515462",2019,"Monroe","Chili town",89.7,1.9
+"3605515957",2019,"Monroe","Clarkson town",89.4,3.1
+"3605522870",2019,"Monroe","East Rochester town",80.7,4.9
+"3605528442",2019,"Monroe","Gates town",86.9,2.1
+"3605530290",2019,"Monroe","Greece town",85.7,1.1
+"3605531797",2019,"Monroe","Hamlin town",86.4,4
+"3605534099",2019,"Monroe","Henrietta town",86.6,2.2
+"3605537726",2019,"Monroe","Irondequoit town",84.6,1.4
+"3605546558",2019,"Monroe","Mendon town",94.7,2.1
+"3605554474",2019,"Monroe","Ogden town",89.3,2.2
+"3605556561",2019,"Monroe","Parma town",88.4,2.5
+"3605557144",2019,"Monroe","Penfield town",89.4,1.5
+"3605557221",2019,"Monroe","Perinton town",90.5,1.2
+"3605558365",2019,"Monroe","Pittsford town",93.8,1.5
+"3605561808",2019,"Monroe","Riga town",89.4,3.8
+"3605563000",2019,"Monroe","Rochester city",76,1
+"3605564144",2019,"Monroe","Rush town",91.6,3.3
+"3605572455",2019,"Monroe","Sweden town",87.2,2.7
+"3605578971",2019,"Monroe","Webster town",88.6,1.8
+"3605581402",2019,"Monroe","Wheatland town",94.4,2.7
+"3606908378",2019,"Ontario","Bristol town",90.7,3
+"3606912100",2019,"Ontario","Canadice town",83.3,5.3
+"3606912144",2019,"Ontario","Canandaigua city",79.4,3.7
+"3606912155",2019,"Ontario","Canandaigua town",86.2,3.3
+"3606921699",2019,"Ontario","East Bloomfield town",83,7.2
+"3606925406",2019,"Ontario","Farmington town",91.1,2.9
+"3606928640",2019,"Ontario","Geneva city",79.7,3.9
+"3606928651",2019,"Ontario","Geneva town",81.9,6
+"3606929531",2019,"Ontario","Gorham town",90,3.5
+"3606935551",2019,"Ontario","Hopewell town",85.5,5.9
+"3606944864",2019,"Ontario","Manchester town",81.9,3.1
+"3606949440",2019,"Ontario","Naples town",88.2,4
+"3606957529",2019,"Ontario","Phelps town",83.1,4.3
+"3606961544",2019,"Ontario","Richmond town",96.1,3.2
+"3606966289",2019,"Ontario","Seneca town",84.8,5.2
+"3606968660",2019,"Ontario","South Bristol town",94.8,2.6
+"3606977387",2019,"Ontario","Victor town",86.3,3.3
+"3606979356",2019,"Ontario","West Bloomfield town",88.1,4.7
+"3607300000",2019,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2019,"Orleans","Albion town",78.8,6.5
+"3607304572",2019,"Orleans","Barre town",81.2,5.9
+"3607312496",2019,"Orleans","Carlton town",87.1,5.7
+"3607315880",2019,"Orleans","Clarendon town",85.3,5.5
+"3607327958",2019,"Orleans","Gaines town",77,10.5
+"3607339188",2019,"Orleans","Kendall town",88.3,4.2
+"3607349286",2019,"Orleans","Murray town",80.9,5
+"3607361742",2019,"Orleans","Ridgeway town",84,3.7
+"3607366751",2019,"Orleans","Shelby town",78.4,4.8
+"3607383448",2019,"Orleans","Yates town",75.7,5.2
+"3609918663",2019,"Seneca","Covert town",75,5.9
+"3609925505",2019,"Seneca","Fayette town",80,4.5
+"3609928640",2019,"Seneca","Geneva city",NA,NA
+"3609938858",2019,"Seneca","Junius town",74.3,6.3
+"3609943225",2019,"Seneca","Lodi town",77.6,5.5
+"3609955827",2019,"Seneca","Ovid town",68.7,5.2
+"3609963440",2019,"Seneca","Romulus town",79.1,6.1
+"3609966333",2019,"Seneca","Seneca Falls town",86.5,2.8
+"3609975902",2019,"Seneca","Tyre town",66.8,7.1
+"3609976958",2019,"Seneca","Varick town",74.7,5.8
+"3609978564",2019,"Seneca","Waterloo town",82,4.6
+"3611700000",2019,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2019,"Wayne","Arcadia town",77.9,4.4
+"3611711473",2019,"Wayne","Butler town",72.7,6.5
+"3611728013",2019,"Wayne","Galen town",77.3,5.4
+"3611737165",2019,"Wayne","Huron town",75.1,8.7
+"3611743973",2019,"Wayne","Lyons town",80.8,7.2
+"3611744160",2019,"Wayne","Macedon town",85.7,3.7
+"3611745645",2019,"Wayne","Marion town",81.5,4.9
+"3611755013",2019,"Wayne","Ontario town",86.4,3.7
+"3611756198",2019,"Wayne","Palmyra town",77,4.8
+"3611763605",2019,"Wayne","Rose town",74,7.3
+"3611765343",2019,"Wayne","Savannah town",76,6.4
+"3611768220",2019,"Wayne","Sodus town",79.6,4.4
+"3611778102",2019,"Wayne","Walworth town",93.5,2.4
+"3611782040",2019,"Wayne","Williamson town",82.1,3.7
+"3611782689",2019,"Wayne","Wolcott town",76.2,5.6
+"3612304594",2019,"Yates","Barrington town",68.2,6.9
+"3612306002",2019,"Yates","Benton town",65.4,7.4
+"3612338044",2019,"Yates","Italy town",82.8,6.1
+"3612338583",2019,"Yates","Jerusalem town",78.7,6
+"3612347020",2019,"Yates","Middlesex town",82.9,6.2
+"3612347504",2019,"Yates","Milo town",75.2,5.3
+"3612359597",2019,"Yates","Potter town",73.8,6.9
+"3612370816",2019,"Yates","Starkey town",81.1,5.6
+"3612375055",2019,"Yates","Torrey town",75.4,7
+"3603700474",2020,"Genesee","Alabama town",85,5.2
+"3603701165",2020,"Genesee","Alexander town",84,5.7
+"3603704715",2020,"Genesee","Batavia city",79.1,3.4
+"3603704726",2020,"Genesee","Batavia town",89.5,4
+"3603706057",2020,"Genesee","Bergen town",81.9,6.9
+"3603706266",2020,"Genesee","Bethany town",77.7,5.4
+"3603711572",2020,"Genesee","Byron town",90.6,4.8
+"3603719719",2020,"Genesee","Darien town",88.4,5.8
+"3603723756",2020,"Genesee","Elba town",91.7,3.3
+"3603742037",2020,"Genesee","Le Roy town",75.1,8.7
+"3603754166",2020,"Genesee","Oakfield town",88,4.3
+"3603756792",2020,"Genesee","Pavilion town",80,5.9
+"3603757078",2020,"Genesee","Pembroke town",90.2,4.1
+"3603770607",2020,"Genesee","Stafford town",85.3,5
+"3603775011",2020,"Genesee","Tonawanda Reservation",61.6,15.6
+"3605103364",2020,"Livingston","Avon town",90,3.5
+"3605111715",2020,"Livingston","Caledonia town",86.1,4.6
+"3605117618",2020,"Livingston","Conesus town",84.3,7.4
+"3605128629",2020,"Livingston","Geneseo town",90.4,2.9
+"3605131016",2020,"Livingston","Groveland town",81.6,7.9
+"3605141883",2020,"Livingston","Leicester town",82,6.1
+"3605142334",2020,"Livingston","Lima town",90.8,4
+"3605142961",2020,"Livingston","Livonia town",94.3,2.5
+"3605148956",2020,"Livingston","Mount Morris town",83.2,4.9
+"3605151869",2020,"Livingston","North Dansville town",73.3,7.6
+"3605154089",2020,"Livingston","Nunda town",78.2,7.7
+"3605155508",2020,"Livingston","Ossian town",90.6,4.6
+"3605159179",2020,"Livingston","Portage town",69.6,10.8
+"3605170101",2020,"Livingston","Sparta town",87.9,4.1
+"3605170475",2020,"Livingston","Springwater town",78.3,8.9
+"3605181006",2020,"Livingston","West Sparta town",79.3,7.9
+"3605184022",2020,"Livingston","York town",86.1,6
+"3605500000",2020,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2020,"Monroe","Brighton town",88,1.9
+"3605515462",2020,"Monroe","Chili town",91.1,2.1
+"3605515957",2020,"Monroe","Clarkson town",91,3.9
+"3605522870",2020,"Monroe","East Rochester town",86.5,4.1
+"3605528442",2020,"Monroe","Gates town",88.5,2.2
+"3605530290",2020,"Monroe","Greece town",87.3,1.1
+"3605531797",2020,"Monroe","Hamlin town",89.8,3.1
+"3605534099",2020,"Monroe","Henrietta town",89.4,1.8
+"3605537726",2020,"Monroe","Irondequoit town",86.7,1.8
+"3605546558",2020,"Monroe","Mendon town",92,3.7
+"3605554474",2020,"Monroe","Ogden town",90.1,2.9
+"3605556561",2020,"Monroe","Parma town",89.8,3.1
+"3605557144",2020,"Monroe","Penfield town",90.8,1.5
+"3605557221",2020,"Monroe","Perinton town",92.4,1.3
+"3605558365",2020,"Monroe","Pittsford town",91.3,3
+"3605561808",2020,"Monroe","Riga town",90.1,3.5
+"3605563000",2020,"Monroe","Rochester city",80.1,1
+"3605564144",2020,"Monroe","Rush town",93.1,3.6
+"3605572455",2020,"Monroe","Sweden town",87.6,3.7
+"3605578971",2020,"Monroe","Webster town",88.5,2.7
+"3605581402",2020,"Monroe","Wheatland town",93.3,3.4
+"3606908378",2020,"Ontario","Bristol town",92.1,3.4
+"3606912100",2020,"Ontario","Canadice town",79.3,10
+"3606912144",2020,"Ontario","Canandaigua city",81.9,3.6
+"3606912155",2020,"Ontario","Canandaigua town",89.9,3.5
+"3606921699",2020,"Ontario","East Bloomfield town",83.6,6.1
+"3606925406",2020,"Ontario","Farmington town",91.7,3.3
+"3606928640",2020,"Ontario","Geneva city",83.9,3.3
+"3606928651",2020,"Ontario","Geneva town",85.7,5.6
+"3606929531",2020,"Ontario","Gorham town",89.8,4.2
+"3606935551",2020,"Ontario","Hopewell town",87.3,5.6
+"3606944864",2020,"Ontario","Manchester town",81.9,5
+"3606949440",2020,"Ontario","Naples town",87.3,4.9
+"3606957529",2020,"Ontario","Phelps town",84.3,4.7
+"3606961544",2020,"Ontario","Richmond town",98.3,3.2
+"3606966289",2020,"Ontario","Seneca town",89.1,4.7
+"3606968660",2020,"Ontario","South Bristol town",97.3,2
+"3606977387",2020,"Ontario","Victor town",88.5,3
+"3606979356",2020,"Ontario","West Bloomfield town",83.2,8.6
+"3607300000",2020,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2020,"Orleans","Albion town",75.3,8.7
+"3607304572",2020,"Orleans","Barre town",78.5,6.4
+"3607312496",2020,"Orleans","Carlton town",90.3,4.7
+"3607315880",2020,"Orleans","Clarendon town",87.3,5.4
+"3607327958",2020,"Orleans","Gaines town",71.4,12.8
+"3607339188",2020,"Orleans","Kendall town",89.5,5
+"3607349286",2020,"Orleans","Murray town",85.3,4.1
+"3607361742",2020,"Orleans","Ridgeway town",88.2,3.9
+"3607366751",2020,"Orleans","Shelby town",82.1,5.3
+"3607383448",2020,"Orleans","Yates town",78.2,5.5
+"3609918663",2020,"Seneca","Covert town",79.2,5.5
+"3609925505",2020,"Seneca","Fayette town",79.8,6
+"3609928640",2020,"Seneca","Geneva city",NA,NA
+"3609938858",2020,"Seneca","Junius town",75.3,5.5
+"3609943225",2020,"Seneca","Lodi town",81,6.6
+"3609955827",2020,"Seneca","Ovid town",77.1,4.8
+"3609963440",2020,"Seneca","Romulus town",85.4,5.5
+"3609966333",2020,"Seneca","Seneca Falls town",85.7,3.8
+"3609975902",2020,"Seneca","Tyre town",70.2,10.1
+"3609976958",2020,"Seneca","Varick town",77.7,6.4
+"3609978564",2020,"Seneca","Waterloo town",84.2,4.2
+"3611700000",2020,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2020,"Wayne","Arcadia town",80.6,4.3
+"3611711473",2020,"Wayne","Butler town",59.4,14.8
+"3611728013",2020,"Wayne","Galen town",83.5,4.9
+"3611737165",2020,"Wayne","Huron town",87.5,5.1
+"3611743973",2020,"Wayne","Lyons town",79.1,8.3
+"3611744160",2020,"Wayne","Macedon town",89.7,3.5
+"3611745645",2020,"Wayne","Marion town",87,4.9
+"3611755013",2020,"Wayne","Ontario town",90.6,3
+"3611756198",2020,"Wayne","Palmyra town",87.8,3.6
+"3611763605",2020,"Wayne","Rose town",75.1,7.3
+"3611765343",2020,"Wayne","Savannah town",79.7,6.2
+"3611768220",2020,"Wayne","Sodus town",83.8,4.3
+"3611778102",2020,"Wayne","Walworth town",96.1,1.6
+"3611782040",2020,"Wayne","Williamson town",83.4,4.6
+"3611782689",2020,"Wayne","Wolcott town",74.9,8.1
+"3612304594",2020,"Yates","Barrington town",73.2,6.1
+"3612306002",2020,"Yates","Benton town",70.7,6.4
+"3612338044",2020,"Yates","Italy town",85.8,5.4
+"3612338583",2020,"Yates","Jerusalem town",79.9,6.5
+"3612347020",2020,"Yates","Middlesex town",78.2,8.8
+"3612347504",2020,"Yates","Milo town",68,8.1
+"3612359597",2020,"Yates","Potter town",77.3,6.1
+"3612370816",2020,"Yates","Starkey town",83.2,6.7
+"3612375055",2020,"Yates","Torrey town",71.2,6.3
+"3603700474",2021,"Genesee","Alabama town",88.3,3.8
+"3603701165",2021,"Genesee","Alexander town",84,5.9
+"3603704715",2021,"Genesee","Batavia city",83.7,3
+"3603704726",2021,"Genesee","Batavia town",90,3.6
+"3603706057",2021,"Genesee","Bergen town",85,5.2
+"3603706266",2021,"Genesee","Bethany town",79,6
+"3603711572",2021,"Genesee","Byron town",92.8,3.6
+"3603719719",2021,"Genesee","Darien town",90.3,5.7
+"3603723756",2021,"Genesee","Elba town",92,3.3
+"3603742037",2021,"Genesee","Le Roy town",82.7,7.3
+"3603754166",2021,"Genesee","Oakfield town",89.2,4.2
+"3603756792",2021,"Genesee","Pavilion town",82.6,6.4
+"3603757078",2021,"Genesee","Pembroke town",91,3.9
+"3603770607",2021,"Genesee","Stafford town",91.6,3.9
+"3603775011",2021,"Genesee","Tonawanda Reservation",61.3,15.4
+"3605103364",2021,"Livingston","Avon town",90.8,4.3
+"3605111715",2021,"Livingston","Caledonia town",89.4,4.4
+"3605117618",2021,"Livingston","Conesus town",86.1,6.5
+"3605128629",2021,"Livingston","Geneseo town",87.3,4.1
+"3605131016",2021,"Livingston","Groveland town",89.4,4.4
+"3605141883",2021,"Livingston","Leicester town",86.6,6.3
+"3605142334",2021,"Livingston","Lima town",91.5,4.6
+"3605142961",2021,"Livingston","Livonia town",93.8,2.8
+"3605148956",2021,"Livingston","Mount Morris town",87.1,4.6
+"3605151869",2021,"Livingston","North Dansville town",78.1,7.3
+"3605154089",2021,"Livingston","Nunda town",82.1,6.8
+"3605155508",2021,"Livingston","Ossian town",91.5,4.5
+"3605159179",2021,"Livingston","Portage town",76.2,10.7
+"3605170101",2021,"Livingston","Sparta town",87.8,4.4
+"3605170475",2021,"Livingston","Springwater town",77,8.6
+"3605181006",2021,"Livingston","West Sparta town",76.8,8.4
+"3605184022",2021,"Livingston","York town",85.4,6.9
+"3605500000",2021,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2021,"Monroe","Brighton town",89.7,1.7
+"3605515462",2021,"Monroe","Chili town",90.7,2.1
+"3605515957",2021,"Monroe","Clarkson town",90.9,3.6
+"3605522870",2021,"Monroe","East Rochester town",88.3,3.8
+"3605528442",2021,"Monroe","Gates town",90.5,2.2
+"3605530290",2021,"Monroe","Greece town",88.5,1.2
+"3605531797",2021,"Monroe","Hamlin town",91.9,3.1
+"3605534099",2021,"Monroe","Henrietta town",90.1,1.8
+"3605537726",2021,"Monroe","Irondequoit town",88.5,1.6
+"3605546558",2021,"Monroe","Mendon town",92.1,4
+"3605554474",2021,"Monroe","Ogden town",92.1,2.7
+"3605556561",2021,"Monroe","Parma town",88.3,3.6
+"3605557144",2021,"Monroe","Penfield town",92.4,1.3
+"3605557221",2021,"Monroe","Perinton town",93.2,1.3
+"3605558365",2021,"Monroe","Pittsford town",92.2,2.7
+"3605561808",2021,"Monroe","Riga town",90.1,3.8
+"3605563000",2021,"Monroe","Rochester city",81.4,1.1
+"3605564144",2021,"Monroe","Rush town",93.7,3.5
+"3605572455",2021,"Monroe","Sweden town",89,3.3
+"3605578971",2021,"Monroe","Webster town",89.8,1.9
+"3605581402",2021,"Monroe","Wheatland town",92.9,4.2
+"3606908378",2021,"Ontario","Bristol town",93,3.8
+"3606912100",2021,"Ontario","Canadice town",80.6,10.3
+"3606912144",2021,"Ontario","Canandaigua city",82.3,4
+"3606912155",2021,"Ontario","Canandaigua town",92.3,2.8
+"3606921699",2021,"Ontario","East Bloomfield town",77.8,7.7
+"3606925406",2021,"Ontario","Farmington town",93.3,2.9
+"3606928640",2021,"Ontario","Geneva city",86.3,3.1
+"3606928651",2021,"Ontario","Geneva town",89.6,5.2
+"3606929531",2021,"Ontario","Gorham town",85.8,4.7
+"3606935551",2021,"Ontario","Hopewell town",89.7,5.1
+"3606944864",2021,"Ontario","Manchester town",85.5,5.1
+"3606949440",2021,"Ontario","Naples town",87.4,5.9
+"3606957529",2021,"Ontario","Phelps town",86.6,4.5
+"3606961544",2021,"Ontario","Richmond town",94.9,4.7
+"3606966289",2021,"Ontario","Seneca town",91.3,3.9
+"3606968660",2021,"Ontario","South Bristol town",97.6,1.5
+"3606977387",2021,"Ontario","Victor town",89.7,2.9
+"3606979356",2021,"Ontario","West Bloomfield town",83.6,9.6
+"3607300000",2021,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2021,"Orleans","Albion town",77.4,9
+"3607304572",2021,"Orleans","Barre town",77.4,7
+"3607312496",2021,"Orleans","Carlton town",92.8,4.2
+"3607315880",2021,"Orleans","Clarendon town",90.4,4.6
+"3607327958",2021,"Orleans","Gaines town",74.1,11.9
+"3607339188",2021,"Orleans","Kendall town",90.3,3.8
+"3607349286",2021,"Orleans","Murray town",87.1,4.7
+"3607361742",2021,"Orleans","Ridgeway town",89.3,4.5
+"3607366751",2021,"Orleans","Shelby town",79.9,4.6
+"3607383448",2021,"Orleans","Yates town",78.9,5.1
+"3609918663",2021,"Seneca","Covert town",83.4,5.5
+"3609925505",2021,"Seneca","Fayette town",80.1,7.2
+"3609928640",2021,"Seneca","Geneva city",NA,NA
+"3609938858",2021,"Seneca","Junius town",74.3,6.8
+"3609943225",2021,"Seneca","Lodi town",82.1,5.3
+"3609955827",2021,"Seneca","Ovid town",80.1,4.9
+"3609963440",2021,"Seneca","Romulus town",85.4,4.8
+"3609966333",2021,"Seneca","Seneca Falls town",85.3,4
+"3609975902",2021,"Seneca","Tyre town",72.9,9.2
+"3609976958",2021,"Seneca","Varick town",81,7
+"3609978564",2021,"Seneca","Waterloo town",87.6,4.1
+"3611700000",2021,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2021,"Wayne","Arcadia town",83.9,3.3
+"3611711473",2021,"Wayne","Butler town",62.7,14.5
+"3611728013",2021,"Wayne","Galen town",85.1,5.2
+"3611737165",2021,"Wayne","Huron town",89.8,5.8
+"3611743973",2021,"Wayne","Lyons town",81,7.7
+"3611744160",2021,"Wayne","Macedon town",89.4,3.4
+"3611745645",2021,"Wayne","Marion town",89.3,4.5
+"3611755013",2021,"Wayne","Ontario town",90.9,2.8
+"3611756198",2021,"Wayne","Palmyra town",87.5,3.5
+"3611763605",2021,"Wayne","Rose town",78.7,7.6
+"3611765343",2021,"Wayne","Savannah town",80.5,6.4
+"3611768220",2021,"Wayne","Sodus town",85.1,4.1
+"3611778102",2021,"Wayne","Walworth town",94.3,1.9
+"3611782040",2021,"Wayne","Williamson town",85.7,4.7
+"3611782689",2021,"Wayne","Wolcott town",75.2,8.2
+"3612304594",2021,"Yates","Barrington town",76.5,6
+"3612306002",2021,"Yates","Benton town",71.7,7.8
+"3612338044",2021,"Yates","Italy town",88.4,5.4
+"3612338583",2021,"Yates","Jerusalem town",83.1,5.9
+"3612347020",2021,"Yates","Middlesex town",80.8,8
+"3612347504",2021,"Yates","Milo town",72,6.5
+"3612359597",2021,"Yates","Potter town",77.7,6.3
+"3612370816",2021,"Yates","Starkey town",84.1,6
+"3612375055",2021,"Yates","Torrey town",73.4,8.3
+"3603700474",2022,"Genesee","Alabama town",92.1,3.1
+"3603701165",2022,"Genesee","Alexander town",85.1,5.8
+"3603704715",2022,"Genesee","Batavia city",86.1,2.6
+"3603704726",2022,"Genesee","Batavia town",91,3.5
+"3603706057",2022,"Genesee","Bergen town",88.6,4.2
+"3603706266",2022,"Genesee","Bethany town",83.9,5.1
+"3603711572",2022,"Genesee","Byron town",95.5,2.7
+"3603719719",2022,"Genesee","Darien town",93.1,4.5
+"3603723756",2022,"Genesee","Elba town",94.1,3
+"3603742037",2022,"Genesee","Le Roy town",85.4,7.2
+"3603754166",2022,"Genesee","Oakfield town",89.5,3.8
+"3603756792",2022,"Genesee","Pavilion town",86.2,4.8
+"3603757078",2022,"Genesee","Pembroke town",89.1,4.5
+"3603770607",2022,"Genesee","Stafford town",94.2,3.9
+"3603775011",2022,"Genesee","Tonawanda Reservation",50,12.8
+"3605103364",2022,"Livingston","Avon town",93.2,3.4
+"3605111715",2022,"Livingston","Caledonia town",91,3.9
+"3605117618",2022,"Livingston","Conesus town",91,5.2
+"3605128629",2022,"Livingston","Geneseo town",90.1,4.1
+"3605131016",2022,"Livingston","Groveland town",86.7,5.8
+"3605141883",2022,"Livingston","Leicester town",84.7,6.5
+"3605142334",2022,"Livingston","Lima town",91.5,3.7
+"3605142961",2022,"Livingston","Livonia town",93.1,3
+"3605148956",2022,"Livingston","Mount Morris town",87.7,4.4
+"3605151869",2022,"Livingston","North Dansville town",78.7,7.9
+"3605154089",2022,"Livingston","Nunda town",80,7.4
+"3605155508",2022,"Livingston","Ossian town",89.1,6.1
+"3605159179",2022,"Livingston","Portage town",83.7,10.7
+"3605170101",2022,"Livingston","Sparta town",85.2,5
+"3605170475",2022,"Livingston","Springwater town",78.9,7.1
+"3605181006",2022,"Livingston","West Sparta town",76.9,9
+"3605184022",2022,"Livingston","York town",82.7,7
+"3605500000",2022,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2022,"Monroe","Brighton town",90.6,1.8
+"3605515462",2022,"Monroe","Chili town",91.7,2.1
+"3605515957",2022,"Monroe","Clarkson town",92.7,3.3
+"3605522870",2022,"Monroe","East Rochester town",90.5,3.6
+"3605528442",2022,"Monroe","Gates town",91.7,1.7
+"3605530290",2022,"Monroe","Greece town",88.7,1.2
+"3605531797",2022,"Monroe","Hamlin town",92.7,2.4
+"3605534099",2022,"Monroe","Henrietta town",91.6,1.7
+"3605537726",2022,"Monroe","Irondequoit town",89.3,1.8
+"3605546558",2022,"Monroe","Mendon town",90.9,3.8
+"3605554474",2022,"Monroe","Ogden town",91.2,2.7
+"3605556561",2022,"Monroe","Parma town",89.1,2.9
+"3605557144",2022,"Monroe","Penfield town",93,1.4
+"3605557221",2022,"Monroe","Perinton town",93.5,1.3
+"3605558365",2022,"Monroe","Pittsford town",92.5,2.8
+"3605561808",2022,"Monroe","Riga town",91.3,3.7
+"3605563000",2022,"Monroe","Rochester city",83.2,1.1
+"3605564144",2022,"Monroe","Rush town",93.6,3.9
+"3605572455",2022,"Monroe","Sweden town",88.1,3.3
+"3605578971",2022,"Monroe","Webster town",89.7,2
+"3605581402",2022,"Monroe","Wheatland town",93,4.2
+"3606908378",2022,"Ontario","Bristol town",96.1,2.1
+"3606912100",2022,"Ontario","Canadice town",80.2,9.9
+"3606912144",2022,"Ontario","Canandaigua city",85.1,3.2
+"3606912155",2022,"Ontario","Canandaigua town",92.5,3.1
+"3606921699",2022,"Ontario","East Bloomfield town",77.8,9.4
+"3606925406",2022,"Ontario","Farmington town",95.2,2.2
+"3606928640",2022,"Ontario","Geneva city",88.9,3.2
+"3606928651",2022,"Ontario","Geneva town",88.8,6.4
+"3606929531",2022,"Ontario","Gorham town",87.9,5
+"3606935551",2022,"Ontario","Hopewell town",91.9,4.4
+"3606944864",2022,"Ontario","Manchester town",85.7,5
+"3606949440",2022,"Ontario","Naples town",91.9,4.9
+"3606957529",2022,"Ontario","Phelps town",89.5,3.7
+"3606961544",2022,"Ontario","Richmond town",95.1,3.5
+"3606966289",2022,"Ontario","Seneca town",91,3.8
+"3606968660",2022,"Ontario","South Bristol town",95,2.7
+"3606977387",2022,"Ontario","Victor town",91.4,2.6
+"3606979356",2022,"Ontario","West Bloomfield town",82.8,8.6
+"3607300000",2022,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2022,"Orleans","Albion town",77.9,8.3
+"3607304572",2022,"Orleans","Barre town",82.1,7.8
+"3607312496",2022,"Orleans","Carlton town",91.4,4.2
+"3607315880",2022,"Orleans","Clarendon town",90.2,4.1
+"3607327958",2022,"Orleans","Gaines town",84.1,10.5
+"3607339188",2022,"Orleans","Kendall town",94.6,2.7
+"3607349286",2022,"Orleans","Murray town",88.6,4.2
+"3607361742",2022,"Orleans","Ridgeway town",91.1,4.5
+"3607366751",2022,"Orleans","Shelby town",82.9,4.6
+"3607383448",2022,"Orleans","Yates town",78.1,5.5
+"3609918663",2022,"Seneca","Covert town",85.6,4.8
+"3609925505",2022,"Seneca","Fayette town",87.2,6
+"3609928640",2022,"Seneca","Geneva city",NA,NA
+"3609938858",2022,"Seneca","Junius town",79.6,5.9
+"3609943225",2022,"Seneca","Lodi town",85.2,5.4
+"3609955827",2022,"Seneca","Ovid town",74.5,6.8
+"3609963440",2022,"Seneca","Romulus town",87.7,5.1
+"3609966333",2022,"Seneca","Seneca Falls town",84.9,4.5
+"3609975902",2022,"Seneca","Tyre town",73.6,9.3
+"3609976958",2022,"Seneca","Varick town",84.4,5.3
+"3609978564",2022,"Seneca","Waterloo town",84.5,3.8
+"3611700000",2022,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2022,"Wayne","Arcadia town",84.9,4.2
+"3611711473",2022,"Wayne","Butler town",60.9,15.9
+"3611728013",2022,"Wayne","Galen town",84.6,5.5
+"3611737165",2022,"Wayne","Huron town",91.6,5.2
+"3611743973",2022,"Wayne","Lyons town",78.2,8.9
+"3611744160",2022,"Wayne","Macedon town",92.5,2.9
+"3611745645",2022,"Wayne","Marion town",91,4.1
+"3611755013",2022,"Wayne","Ontario town",91,2.9
+"3611756198",2022,"Wayne","Palmyra town",86.3,3.9
+"3611763605",2022,"Wayne","Rose town",77.8,8.4
+"3611765343",2022,"Wayne","Savannah town",82.7,6.2
+"3611768220",2022,"Wayne","Sodus town",87.1,3.8
+"3611778102",2022,"Wayne","Walworth town",94,2.7
+"3611782040",2022,"Wayne","Williamson town",91.3,3.8
+"3611782689",2022,"Wayne","Wolcott town",76.6,7.7
+"3612304594",2022,"Yates","Barrington town",79.7,5.7
+"3612306002",2022,"Yates","Benton town",70.8,7.2
+"3612338044",2022,"Yates","Italy town",87.6,5.7
+"3612338583",2022,"Yates","Jerusalem town",83.7,6.2
+"3612347020",2022,"Yates","Middlesex town",79.3,8.5
+"3612347504",2022,"Yates","Milo town",73,6.4
+"3612359597",2022,"Yates","Potter town",74.6,7.9
+"3612370816",2022,"Yates","Starkey town",83.6,5.9
+"3612375055",2022,"Yates","Torrey town",76.9,7.3
+"3603700474",2023,"Genesee","Alabama town",94.9,2.8
+"3603701165",2023,"Genesee","Alexander town",89.3,4.5
+"3603704715",2023,"Genesee","Batavia city",87.2,2.8
+"3603704726",2023,"Genesee","Batavia town",92.7,3.8
+"3603706057",2023,"Genesee","Bergen town",90.2,4.7
+"3603706266",2023,"Genesee","Bethany town",88.1,5.4
+"3603711572",2023,"Genesee","Byron town",96.6,2.6
+"3603719719",2023,"Genesee","Darien town",92.8,4.9
+"3603723756",2023,"Genesee","Elba town",92.9,3.8
+"3603742037",2023,"Genesee","Le Roy town",84.8,6.9
+"3603754166",2023,"Genesee","Oakfield town",88.2,6.4
+"3603756792",2023,"Genesee","Pavilion town",87.4,5
+"3603757078",2023,"Genesee","Pembroke town",91.3,5.5
+"3603770607",2023,"Genesee","Stafford town",94.1,3.8
+"3603775011",2023,"Genesee","Tonawanda Reservation",48,12.2
+"3605103364",2023,"Livingston","Avon town",93.4,3.5
+"3605111715",2023,"Livingston","Caledonia town",94.4,3
+"3605117618",2023,"Livingston","Conesus town",93,4.6
+"3605128629",2023,"Livingston","Geneseo town",88.1,4.2
+"3605131016",2023,"Livingston","Groveland town",88,5.6
+"3605141883",2023,"Livingston","Leicester town",85.4,6
+"3605142334",2023,"Livingston","Lima town",91.7,3.7
+"3605142961",2023,"Livingston","Livonia town",95.9,1.9
+"3605148956",2023,"Livingston","Mount Morris town",87.6,5.9
+"3605151869",2023,"Livingston","North Dansville town",79,8
+"3605154089",2023,"Livingston","Nunda town",80.6,7.1
+"3605155508",2023,"Livingston","Ossian town",89.2,6.7
+"3605159179",2023,"Livingston","Portage town",82.4,11.3
+"3605170101",2023,"Livingston","Sparta town",83.9,6.3
+"3605170475",2023,"Livingston","Springwater town",81.6,7.6
+"3605181006",2023,"Livingston","West Sparta town",78.1,8.1
+"3605184022",2023,"Livingston","York town",81.8,9
+"3605500000",2023,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2023,"Monroe","Brighton town",91,1.7
+"3605515462",2023,"Monroe","Chili town",92.5,2.1
+"3605515957",2023,"Monroe","Clarkson town",94.1,3.4
+"3605522870",2023,"Monroe","East Rochester town",89.7,3.7
+"3605528442",2023,"Monroe","Gates town",92,1.7
+"3605530290",2023,"Monroe","Greece town",89.6,1.2
+"3605531797",2023,"Monroe","Hamlin town",92,3.2
+"3605534099",2023,"Monroe","Henrietta town",91.6,1.9
+"3605537726",2023,"Monroe","Irondequoit town",90.4,1.8
+"3605546558",2023,"Monroe","Mendon town",91.9,3.7
+"3605554474",2023,"Monroe","Ogden town",91,2.7
+"3605556561",2023,"Monroe","Parma town",90.6,2.5
+"3605557144",2023,"Monroe","Penfield town",93.8,1.3
+"3605557221",2023,"Monroe","Perinton town",93.7,1.5
+"3605558365",2023,"Monroe","Pittsford town",93.2,2.4
+"3605561808",2023,"Monroe","Riga town",93.2,3.8
+"3605563000",2023,"Monroe","Rochester city",84.9,0.9
+"3605564144",2023,"Monroe","Rush town",94.9,3.4
+"3605572455",2023,"Monroe","Sweden town",86.1,4.1
+"3605578971",2023,"Monroe","Webster town",90.3,2.1
+"3605581402",2023,"Monroe","Wheatland town",93.6,4
+"3606908378",2023,"Ontario","Bristol town",95.3,2.9
+"3606912100",2023,"Ontario","Canadice town",79.1,10
+"3606912144",2023,"Ontario","Canandaigua city",85.9,3.4
+"3606912155",2023,"Ontario","Canandaigua town",91.7,2.7
+"3606921699",2023,"Ontario","East Bloomfield town",82.8,6.6
+"3606925406",2023,"Ontario","Farmington town",94.3,2.5
+"3606928640",2023,"Ontario","Geneva city",92.9,2.5
+"3606928651",2023,"Ontario","Geneva town",89.8,4.2
+"3606929531",2023,"Ontario","Gorham town",87.5,4.1
+"3606935551",2023,"Ontario","Hopewell town",93.6,3.7
+"3606944864",2023,"Ontario","Manchester town",85.2,4.4
+"3606949440",2023,"Ontario","Naples town",90.9,5.1
+"3606957529",2023,"Ontario","Phelps town",89.7,3.3
+"3606961544",2023,"Ontario","Richmond town",92.9,3.8
+"3606966289",2023,"Ontario","Seneca town",88.8,5.7
+"3606968660",2023,"Ontario","South Bristol town",96.8,2.7
+"3606977387",2023,"Ontario","Victor town",94.6,2
+"3606979356",2023,"Ontario","West Bloomfield town",85.9,8.2
+"3607300000",2023,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2023,"Orleans","Albion town",77.3,7.9
+"3607304572",2023,"Orleans","Barre town",84.6,6.1
+"3607312496",2023,"Orleans","Carlton town",90.9,4
+"3607315880",2023,"Orleans","Clarendon town",89.6,4.2
+"3607327958",2023,"Orleans","Gaines town",85.2,10.4
+"3607339188",2023,"Orleans","Kendall town",96.1,2.3
+"3607349286",2023,"Orleans","Murray town",91.7,3.3
+"3607361742",2023,"Orleans","Ridgeway town",90.4,3.3
+"3607366751",2023,"Orleans","Shelby town",86.9,4.6
+"3607383448",2023,"Orleans","Yates town",81.8,5.3
+"3609918663",2023,"Seneca","Covert town",84.8,5.7
+"3609925505",2023,"Seneca","Fayette town",84.7,6.8
+"3609928640",2023,"Seneca","Geneva city",NA,NA
+"3609938858",2023,"Seneca","Junius town",85,4.8
+"3609943225",2023,"Seneca","Lodi town",84.1,6.3
+"3609955827",2023,"Seneca","Ovid town",77.1,6.3
+"3609963440",2023,"Seneca","Romulus town",90.6,4
+"3609966333",2023,"Seneca","Seneca Falls town",86.1,3.8
+"3609975902",2023,"Seneca","Tyre town",77,9.1
+"3609976958",2023,"Seneca","Varick town",86.6,4.4
+"3609978564",2023,"Seneca","Waterloo town",85.4,4.8
+"3611700000",2023,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2023,"Wayne","Arcadia town",85.6,3.5
+"3611711473",2023,"Wayne","Butler town",61.6,15.5
+"3611728013",2023,"Wayne","Galen town",85.7,4.7
+"3611737165",2023,"Wayne","Huron town",91.8,5.3
+"3611743973",2023,"Wayne","Lyons town",84.1,8
+"3611744160",2023,"Wayne","Macedon town",93.4,2.7
+"3611745645",2023,"Wayne","Marion town",91.4,4.1
+"3611755013",2023,"Wayne","Ontario town",93.9,2.1
+"3611756198",2023,"Wayne","Palmyra town",87,4.1
+"3611763605",2023,"Wayne","Rose town",81.5,9.1
+"3611765343",2023,"Wayne","Savannah town",82.4,6.1
+"3611768220",2023,"Wayne","Sodus town",86.6,4.7
+"3611778102",2023,"Wayne","Walworth town",94.1,2.7
+"3611782040",2023,"Wayne","Williamson town",91.5,4.3
+"3611782689",2023,"Wayne","Wolcott town",79.6,6.9
+"3612304594",2023,"Yates","Barrington town",80.6,6.3
+"3612306002",2023,"Yates","Benton town",72.2,7.8
+"3612338044",2023,"Yates","Italy town",89.1,5.4
+"3612338583",2023,"Yates","Jerusalem town",86.5,5.7
+"3612347020",2023,"Yates","Middlesex town",85.8,7.7
+"3612347504",2023,"Yates","Milo town",71.2,6.1
+"3612359597",2023,"Yates","Potter town",76.5,6.6
+"3612370816",2023,"Yates","Starkey town",83.3,5.6
+"3612375055",2023,"Yates","Torrey town",82.7,8.3
+"3603700474",2024,"Genesee","Alabama town",95.8,2.6
+"3603701165",2024,"Genesee","Alexander town",90.7,4.2
+"3603704715",2024,"Genesee","Batavia city",89.6,2.2
+"3603704726",2024,"Genesee","Batavia town",95.1,2.8
+"3603706057",2024,"Genesee","Bergen town",91.3,4.8
+"3603706266",2024,"Genesee","Bethany town",89.2,4.4
+"3603711572",2024,"Genesee","Byron town",97.8,2
+"3603719719",2024,"Genesee","Darien town",92.3,6.1
+"3603723756",2024,"Genesee","Elba town",95.7,2.4
+"3603742037",2024,"Genesee","Le Roy town",82.6,6.6
+"3603754166",2024,"Genesee","Oakfield town",90.7,6.3
+"3603756792",2024,"Genesee","Pavilion town",91.6,4.3
+"3603757078",2024,"Genesee","Pembroke town",90.6,4.5
+"3603770607",2024,"Genesee","Stafford town",96.8,1.7
+"3603775011",2024,"Genesee","Tonawanda Reservation",55.1,13.9
+"3605103364",2024,"Livingston","Avon town",92.1,3.6
+"3605111715",2024,"Livingston","Caledonia town",93.8,3
+"3605117618",2024,"Livingston","Conesus town",87,6.5
+"3605128629",2024,"Livingston","Geneseo town",91.4,4.1
+"3605131016",2024,"Livingston","Groveland town",89.7,4.9
+"3605141883",2024,"Livingston","Leicester town",86.1,6.1
+"3605142334",2024,"Livingston","Lima town",93.2,3.2
+"3605142961",2024,"Livingston","Livonia town",96.5,1.8
+"3605148956",2024,"Livingston","Mount Morris town",87.3,6.2
+"3605151869",2024,"Livingston","North Dansville town",78.4,7.9
+"3605154089",2024,"Livingston","Nunda town",83.6,7.1
+"3605155508",2024,"Livingston","Ossian town",91.5,4.7
+"3605159179",2024,"Livingston","Portage town",83,11.5
+"3605170101",2024,"Livingston","Sparta town",86.1,5.7
+"3605170475",2024,"Livingston","Springwater town",84.5,7.4
+"3605181006",2024,"Livingston","West Sparta town",74.9,7.2
+"3605184022",2024,"Livingston","York town",85.5,7.5
+"3605500000",2024,"Monroe","County subdivisions not defined",NA,NA
+"3605508246",2024,"Monroe","Brighton town",91.5,1.6
+"3605515462",2024,"Monroe","Chili town",93.2,2.2
+"3605515957",2024,"Monroe","Clarkson town",92.2,3.5
+"3605522870",2024,"Monroe","East Rochester town",88.3,4.2
+"3605528442",2024,"Monroe","Gates town",92.1,2
+"3605530290",2024,"Monroe","Greece town",91,1.2
+"3605531797",2024,"Monroe","Hamlin town",95.6,1.9
+"3605534099",2024,"Monroe","Henrietta town",91.4,1.7
+"3605537726",2024,"Monroe","Irondequoit town",90.7,1.9
+"3605546558",2024,"Monroe","Mendon town",92.4,3.6
+"3605554474",2024,"Monroe","Ogden town",92.5,2.5
+"3605556561",2024,"Monroe","Parma town",92.8,2.1
+"3605557144",2024,"Monroe","Penfield town",93.9,1.3
+"3605557221",2024,"Monroe","Perinton town",95.2,1.2
+"3605558365",2024,"Monroe","Pittsford town",92.5,2.9
+"3605561808",2024,"Monroe","Riga town",95.7,2
+"3605563000",2024,"Monroe","Rochester city",86.6,0.9
+"3605564144",2024,"Monroe","Rush town",97.8,2.1
+"3605572455",2024,"Monroe","Sweden town",88.2,3.7
+"3605578971",2024,"Monroe","Webster town",91.4,1.6
+"3605581402",2024,"Monroe","Wheatland town",93.1,4.4
+"3606908378",2024,"Ontario","Bristol town",98.8,1.6
+"3606912100",2024,"Ontario","Canadice town",82.3,10.3
+"3606912144",2024,"Ontario","Canandaigua city",87.4,2.7
+"3606912155",2024,"Ontario","Canandaigua town",93.1,3.2
+"3606921699",2024,"Ontario","East Bloomfield town",88.1,5.8
+"3606925406",2024,"Ontario","Farmington town",94.7,2.1
+"3606928640",2024,"Ontario","Geneva city",91.6,3.5
+"3606928651",2024,"Ontario","Geneva town",90.3,3.9
+"3606929531",2024,"Ontario","Gorham town",90.5,4.1
+"3606935551",2024,"Ontario","Hopewell town",94.2,3.8
+"3606944864",2024,"Ontario","Manchester town",86.4,4.7
+"3606949440",2024,"Ontario","Naples town",90.8,5.3
+"3606957529",2024,"Ontario","Phelps town",89.6,3.6
+"3606961544",2024,"Ontario","Richmond town",92.6,4
+"3606966289",2024,"Ontario","Seneca town",90.7,5.2
+"3606968660",2024,"Ontario","South Bristol town",97,2.5
+"3606977387",2024,"Ontario","Victor town",95.1,1.7
+"3606979356",2024,"Ontario","West Bloomfield town",91.1,8.3
+"3607300000",2024,"Orleans","County subdivisions not defined",NA,NA
+"3607301044",2024,"Orleans","Albion town",76,8.1
+"3607304572",2024,"Orleans","Barre town",86.6,6.8
+"3607312496",2024,"Orleans","Carlton town",90.4,5.5
+"3607315880",2024,"Orleans","Clarendon town",88.5,4.7
+"3607327958",2024,"Orleans","Gaines town",88.2,7.6
+"3607339188",2024,"Orleans","Kendall town",95.4,2.9
+"3607349286",2024,"Orleans","Murray town",95,2.7
+"3607361742",2024,"Orleans","Ridgeway town",91.2,3.8
+"3607366751",2024,"Orleans","Shelby town",87,4.5
+"3607383448",2024,"Orleans","Yates town",77.5,6.5
+"3609918663",2024,"Seneca","Covert town",89.4,3.6
+"3609925505",2024,"Seneca","Fayette town",85.6,7.4
+"3609928640",2024,"Seneca","Geneva city",NA,NA
+"3609938858",2024,"Seneca","Junius town",86.1,4.4
+"3609943225",2024,"Seneca","Lodi town",84,5.7
+"3609955827",2024,"Seneca","Ovid town",84.3,5.5
+"3609963440",2024,"Seneca","Romulus town",89.2,5.3
+"3609966333",2024,"Seneca","Seneca Falls town",87,3.8
+"3609975902",2024,"Seneca","Tyre town",81.1,9.5
+"3609976958",2024,"Seneca","Varick town",86.6,4.9
+"3609978564",2024,"Seneca","Waterloo town",87.2,5.5
+"3611700000",2024,"Wayne","County subdivisions not defined",NA,NA
+"3611702440",2024,"Wayne","Arcadia town",88.9,3.3
+"3611711473",2024,"Wayne","Butler town",67.1,15.9
+"3611728013",2024,"Wayne","Galen town",86.3,5.8
+"3611737165",2024,"Wayne","Huron town",94.9,4.1
+"3611743973",2024,"Wayne","Lyons town",86.4,6.5
+"3611744160",2024,"Wayne","Macedon town",94.4,2.5
+"3611745645",2024,"Wayne","Marion town",92.8,3.6
+"3611755013",2024,"Wayne","Ontario town",92.2,2.8
+"3611756198",2024,"Wayne","Palmyra town",88.9,3
+"3611763605",2024,"Wayne","Rose town",81.8,8.9
+"3611765343",2024,"Wayne","Savannah town",85.4,6.4
+"3611768220",2024,"Wayne","Sodus town",89.5,4.2
+"3611778102",2024,"Wayne","Walworth town",94.3,2.5
+"3611782040",2024,"Wayne","Williamson town",92.5,3.7
+"3611782689",2024,"Wayne","Wolcott town",79.6,8.1
+"3612304594",2024,"Yates","Barrington town",84.2,4.3
+"3612306002",2024,"Yates","Benton town",77.3,7.3
+"3612338044",2024,"Yates","Italy town",92.4,4.8
+"3612338583",2024,"Yates","Jerusalem town",86.4,5.9
+"3612347020",2024,"Yates","Middlesex town",86.2,7.7
+"3612347504",2024,"Yates","Milo town",74.5,5.6
+"3612359597",2024,"Yates","Potter town",78.4,6.7
+"3612370816",2024,"Yates","Starkey town",76.6,7.9
+"3612375055",2024,"Yates","Torrey town",75.9,9
